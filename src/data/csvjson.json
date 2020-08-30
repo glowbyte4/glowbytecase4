@@ -1,0 +1,4282 @@
+[
+  {
+    "id": 0,
+    "name": "",
+    "type": "apartments",
+    "area": 1081.9799168036102,
+    "center_lng": 37.648139675,
+    "center_lat": 55.74183222500001
+  },
+  {
+    "id": 1,
+    "name": "",
+    "type": "apartments",
+    "area": 4311.337491298604,
+    "center_lng": 37.663773090909096,
+    "center_lat": 55.73586663636363
+  },
+  {
+    "id": 2,
+    "name": "",
+    "type": "apartments",
+    "area": 760.5043708126453,
+    "center_lng": 37.573499,
+    "center_lat": 55.736121325
+  },
+  {
+    "id": 3,
+    "name": "",
+    "type": "apartments",
+    "area": 718.516984267147,
+    "center_lng": 37.573038950000004,
+    "center_lat": 55.736280375
+  },
+  {
+    "id": 4,
+    "name": "",
+    "type": "apartments",
+    "area": 1283.9242367163195,
+    "center_lng": 37.585374525,
+    "center_lat": 55.732293150000004
+  },
+  {
+    "id": 5,
+    "name": "",
+    "type": "apartments",
+    "area": 433.20193628016574,
+    "center_lng": 37.58675476,
+    "center_lat": 55.732929760000005
+  },
+  {
+    "id": 6,
+    "name": "",
+    "type": "apartments",
+    "area": 415.34880746337757,
+    "center_lng": 37.58700328,
+    "center_lat": 55.73325924000001
+  },
+  {
+    "id": 7,
+    "name": "",
+    "type": "apartments",
+    "area": 1744.9815782541086,
+    "center_lng": 37.593456626315785,
+    "center_lat": 55.733033594736845
+  },
+  {
+    "id": 8,
+    "name": "",
+    "type": "apartments",
+    "area": 3487.8395858519243,
+    "center_lng": 37.57628597142857,
+    "center_lat": 55.74097231428571
+  },
+  {
+    "id": 9,
+    "name": "",
+    "type": "apartments",
+    "area": 658.7525213508768,
+    "center_lng": 37.59088616,
+    "center_lat": 55.744503540000004
+  },
+  {
+    "id": 10,
+    "name": "",
+    "type": "apartments",
+    "area": 634.8053339112314,
+    "center_lng": 37.591904112499996,
+    "center_lat": 55.744564249999996
+  },
+  {
+    "id": 11,
+    "name": "",
+    "type": "apartments",
+    "area": 244.84712856410945,
+    "center_lng": 37.59266835,
+    "center_lat": 55.74418795
+  },
+  {
+    "id": 12,
+    "name": "",
+    "type": "apartments",
+    "area": 2122.197733913493,
+    "center_lng": 37.5948299804878,
+    "center_lat": 55.74505163170731
+  },
+  {
+    "id": 13,
+    "name": "",
+    "type": "apartments",
+    "area": 1226.9311254390627,
+    "center_lng": 37.59817181818182,
+    "center_lat": 55.74513866363636
+  },
+  {
+    "id": 14,
+    "name": "",
+    "type": "apartments",
+    "area": 688.8492215038733,
+    "center_lng": 37.59963395,
+    "center_lat": 55.74308325
+  },
+  {
+    "id": 15,
+    "name": "",
+    "type": "apartments",
+    "area": 677.3568851637049,
+    "center_lng": 37.599835825,
+    "center_lat": 55.7432244
+  },
+  {
+    "id": 16,
+    "name": "",
+    "type": "apartments",
+    "area": 961.1010072891079,
+    "center_lng": 37.59065875714286,
+    "center_lat": 55.74334767142857
+  },
+  {
+    "id": 17,
+    "name": "",
+    "type": "apartments",
+    "area": 459.43745734423214,
+    "center_lng": 37.5930946,
+    "center_lat": 55.743968872727265
+  },
+  {
+    "id": 18,
+    "name": "",
+    "type": "apartments",
+    "area": 281.2884259002365,
+    "center_lng": 37.591862416666665,
+    "center_lat": 55.74399408333334
+  },
+  {
+    "id": 19,
+    "name": "",
+    "type": "apartments",
+    "area": 5179.902245143756,
+    "center_lng": 37.56763735000001,
+    "center_lat": 55.74177878437499
+  },
+  {
+    "id": 20,
+    "name": "",
+    "type": "apartments",
+    "area": 665.7775027279328,
+    "center_lng": 37.577623124999995,
+    "center_lat": 55.74160575
+  },
+  {
+    "id": 21,
+    "name": "",
+    "type": "apartments",
+    "area": 1286.067801799654,
+    "center_lng": 37.57846100555556,
+    "center_lat": 55.74247652500001
+  },
+  {
+    "id": 22,
+    "name": "",
+    "type": "apartments",
+    "area": 1165.10153981632,
+    "center_lng": 37.579189443749996,
+    "center_lat": 55.743952
+  },
+  {
+    "id": 23,
+    "name": "",
+    "type": "apartments",
+    "area": 1331.6133625565265,
+    "center_lng": 37.5827062125,
+    "center_lat": 55.7440562875
+  },
+  {
+    "id": 24,
+    "name": "",
+    "type": "apartments",
+    "area": 433.55742392902465,
+    "center_lng": 37.5824616,
+    "center_lat": 55.7451063
+  },
+  {
+    "id": 25,
+    "name": "",
+    "type": "apartments",
+    "area": 2149.3644410908396,
+    "center_lng": 37.58133018333333,
+    "center_lat": 55.74365038333334
+  },
+  {
+    "id": 26,
+    "name": "",
+    "type": "apartments",
+    "area": 599.5565218577519,
+    "center_lng": 37.578698759999995,
+    "center_lat": 55.7431107
+  },
+  {
+    "id": 27,
+    "name": "",
+    "type": "apartments",
+    "area": 1183.066639470046,
+    "center_lng": 37.580850312500004,
+    "center_lat": 55.7395946125
+  },
+  {
+    "id": 28,
+    "name": "",
+    "type": "apartments",
+    "area": 814.2975370365065,
+    "center_lng": 37.58359394666666,
+    "center_lat": 55.742474126666664
+  },
+  {
+    "id": 29,
+    "name": "",
+    "type": "apartments",
+    "area": 535.084280594247,
+    "center_lng": 37.57337125,
+    "center_lat": 55.74103883333334
+  },
+  {
+    "id": 30,
+    "name": "",
+    "type": "apartments",
+    "area": 502.788098444854,
+    "center_lng": 37.65675215,
+    "center_lat": 55.74441349999999
+  },
+  {
+    "id": 31,
+    "name": "",
+    "type": "apartments",
+    "area": 714.7845777956186,
+    "center_lng": 37.659462850000004,
+    "center_lat": 55.74428585
+  },
+  {
+    "id": 32,
+    "name": "",
+    "type": "apartments",
+    "area": 1226.2884648012882,
+    "center_lng": 37.65225685,
+    "center_lat": 55.744006549999995
+  },
+  {
+    "id": 33,
+    "name": "",
+    "type": "apartments",
+    "area": 2062.2640037407095,
+    "center_lng": 37.64613588095238,
+    "center_lat": 55.743000152380944
+  },
+  {
+    "id": 34,
+    "name": "",
+    "type": "apartments",
+    "area": 964.590720335245,
+    "center_lng": 37.63879753333333,
+    "center_lat": 55.74246779999999
+  },
+  {
+    "id": 35,
+    "name": "",
+    "type": "apartments",
+    "area": 883.6403664752784,
+    "center_lng": 37.63652793999999,
+    "center_lat": 55.74157878000001
+  },
+  {
+    "id": 36,
+    "name": "",
+    "type": "apartments",
+    "area": 453.33036068626694,
+    "center_lng": 37.63658705789473,
+    "center_lat": 55.7411937368421
+  },
+  {
+    "id": 37,
+    "name": "",
+    "type": "apartments",
+    "area": 691.95685169067,
+    "center_lng": 37.63562945,
+    "center_lat": 55.740951224999996
+  },
+  {
+    "id": 38,
+    "name": "",
+    "type": "apartments",
+    "area": 698.2283928994455,
+    "center_lng": 37.635458175,
+    "center_lat": 55.74047245
+  },
+  {
+    "id": 39,
+    "name": "",
+    "type": "apartments",
+    "area": 649.7471233313588,
+    "center_lng": 37.6321949625,
+    "center_lat": 55.742090625
+  },
+  {
+    "id": 40,
+    "name": "",
+    "type": "apartments",
+    "area": 561.711426260509,
+    "center_lng": 37.635287725,
+    "center_lat": 55.742531774999996
+  },
+  {
+    "id": 41,
+    "name": "",
+    "type": "apartments",
+    "area": 1861.0867255009866,
+    "center_lng": 37.63390846,
+    "center_lat": 55.74347846999999
+  },
+  {
+    "id": 42,
+    "name": "",
+    "type": "apartments",
+    "area": 931.4356519526461,
+    "center_lng": 37.634719010000005,
+    "center_lat": 55.74354283
+  },
+  {
+    "id": 43,
+    "name": "",
+    "type": "apartments",
+    "area": 647.961551555042,
+    "center_lng": 37.636049325,
+    "center_lat": 55.742673262500006
+  },
+  {
+    "id": 44,
+    "name": "",
+    "type": "apartments",
+    "area": 647.1321414931041,
+    "center_lng": 37.63880208333333,
+    "center_lat": 55.74508025
+  },
+  {
+    "id": 45,
+    "name": "",
+    "type": "apartments",
+    "area": 2232.4415085956293,
+    "center_lng": 37.639357911764705,
+    "center_lat": 55.74425871176471
+  },
+  {
+    "id": 46,
+    "name": "",
+    "type": "apartments",
+    "area": 707.8260995000812,
+    "center_lng": 37.63331152,
+    "center_lat": 55.73924734
+  },
+  {
+    "id": 47,
+    "name": "",
+    "type": "apartments",
+    "area": 813.5738005624268,
+    "center_lng": 37.634577975,
+    "center_lat": 55.739219737499994
+  },
+  {
+    "id": 48,
+    "name": "",
+    "type": "apartments",
+    "area": 340.21112702155017,
+    "center_lng": 37.63740426666667,
+    "center_lat": 55.74122403333333
+  },
+  {
+    "id": 49,
+    "name": "",
+    "type": "apartments",
+    "area": 300.7244556573317,
+    "center_lng": 37.6401904,
+    "center_lat": 55.74050145
+  },
+  {
+    "id": 50,
+    "name": "",
+    "type": "apartments",
+    "area": 5527.818078765723,
+    "center_lng": 37.641334025,
+    "center_lat": 55.74061966999999
+  },
+  {
+    "id": 51,
+    "name": "",
+    "type": "apartments",
+    "area": 515.305287702993,
+    "center_lng": 37.635910069999994,
+    "center_lat": 55.74477153
+  },
+  {
+    "id": 52,
+    "name": "",
+    "type": "apartments",
+    "area": 506.5443300285092,
+    "center_lng": 37.636698225,
+    "center_lat": 55.744849175
+  },
+  {
+    "id": 53,
+    "name": "",
+    "type": "apartments",
+    "area": 417.996097799279,
+    "center_lng": 37.632123381250004,
+    "center_lat": 55.74383239375
+  },
+  {
+    "id": 54,
+    "name": "Жилой комплекс \"Купеческая усадьба",
+    "type": "apartments",
+    "area": 2195.851142116756,
+    "center_lng": 37.63134826129031,
+    "center_lat": 55.74122549032258
+  },
+  {
+    "id": 55,
+    "name": "",
+    "type": "apartments",
+    "area": 823.4040430388565,
+    "center_lng": 37.63945278636363,
+    "center_lat": 55.743300440909096
+  },
+  {
+    "id": 56,
+    "name": "",
+    "type": "apartments",
+    "area": 1317.2793695711885,
+    "center_lng": 37.63968532173914,
+    "center_lat": 55.74290129565217
+  },
+  {
+    "id": 57,
+    "name": "",
+    "type": "apartments",
+    "area": 522.1728651684264,
+    "center_lng": 37.59175654444444,
+    "center_lat": 55.74312823333332
+  },
+  {
+    "id": 58,
+    "name": "",
+    "type": "apartments",
+    "area": 923.7349057290688,
+    "center_lng": 37.58820640909091,
+    "center_lat": 55.743244463636366
+  },
+  {
+    "id": 59,
+    "name": "",
+    "type": "apartments",
+    "area": 753.2757074074831,
+    "center_lng": 37.5923755125,
+    "center_lat": 55.7422799625
+  },
+  {
+    "id": 60,
+    "name": "",
+    "type": "apartments",
+    "area": 707.7104246418305,
+    "center_lng": 37.590943775,
+    "center_lat": 55.741763683333325
+  },
+  {
+    "id": 61,
+    "name": "",
+    "type": "apartments",
+    "area": 954.1220352649578,
+    "center_lng": 37.5898521875,
+    "center_lat": 55.74129746249999
+  },
+  {
+    "id": 62,
+    "name": "",
+    "type": "apartments",
+    "area": 1172.870571879361,
+    "center_lng": 37.5884921,
+    "center_lat": 55.7408193
+  },
+  {
+    "id": 63,
+    "name": "",
+    "type": "apartments",
+    "area": 1632.1173916655957,
+    "center_lng": 37.58637862500001,
+    "center_lat": 55.740421025
+  },
+  {
+    "id": 64,
+    "name": "",
+    "type": "apartments",
+    "area": 997.4467401317202,
+    "center_lng": 37.59039308,
+    "center_lat": 55.73984074
+  },
+  {
+    "id": 65,
+    "name": "",
+    "type": "apartments",
+    "area": 1219.5984152650542,
+    "center_lng": 37.587691688235296,
+    "center_lat": 55.73697317058823
+  },
+  {
+    "id": 66,
+    "name": "",
+    "type": "apartments",
+    "area": 918.4387760095883,
+    "center_lng": 37.62343145,
+    "center_lat": 55.734503425
+  },
+  {
+    "id": 67,
+    "name": "",
+    "type": "apartments",
+    "area": 616.3544420425951,
+    "center_lng": 37.6329518,
+    "center_lat": 55.73386165
+  },
+  {
+    "id": 68,
+    "name": "",
+    "type": "apartments",
+    "area": 295.85032659706553,
+    "center_lng": 37.633425300000006,
+    "center_lat": 55.733245016666665
+  },
+  {
+    "id": 69,
+    "name": "",
+    "type": "apartments",
+    "area": 940.4918581342642,
+    "center_lng": 37.6344599,
+    "center_lat": 55.7355947
+  },
+  {
+    "id": 70,
+    "name": "",
+    "type": "apartments",
+    "area": 680.119207788145,
+    "center_lng": 37.614982524999995,
+    "center_lat": 55.7354731
+  },
+  {
+    "id": 71,
+    "name": "",
+    "type": "apartments",
+    "area": 595.2057782775158,
+    "center_lng": 37.615480355555555,
+    "center_lat": 55.73526577777778
+  },
+  {
+    "id": 72,
+    "name": "",
+    "type": "apartments",
+    "area": 1082.1974669410008,
+    "center_lng": 37.61410535,
+    "center_lat": 55.73285645
+  },
+  {
+    "id": 73,
+    "name": "",
+    "type": "apartments",
+    "area": 609.2698723153549,
+    "center_lng": 37.61463957777778,
+    "center_lat": 55.73257278888889
+  },
+  {
+    "id": 74,
+    "name": "",
+    "type": "apartments",
+    "area": 1081.4414574436157,
+    "center_lng": 37.638847855555554,
+    "center_lat": 55.733682155555556
+  },
+  {
+    "id": 75,
+    "name": "",
+    "type": "apartments",
+    "area": 2309.451647826166,
+    "center_lng": 37.64791543478261,
+    "center_lat": 55.739643708695645
+  },
+  {
+    "id": 76,
+    "name": "",
+    "type": "residential",
+    "area": 712.952394987366,
+    "center_lng": 37.64837328888889,
+    "center_lat": 55.739923822222224
+  },
+  {
+    "id": 77,
+    "name": "",
+    "type": "apartments",
+    "area": 439.93090777191276,
+    "center_lng": 37.64977976,
+    "center_lat": 55.73944206
+  },
+  {
+    "id": 78,
+    "name": "",
+    "type": "apartments",
+    "area": 661.2528723063768,
+    "center_lng": 37.651188263636364,
+    "center_lat": 55.738667218181824
+  },
+  {
+    "id": 79,
+    "name": "",
+    "type": "apartments",
+    "area": 357.3464072822523,
+    "center_lng": 37.6500327,
+    "center_lat": 55.7380251
+  },
+  {
+    "id": 80,
+    "name": "",
+    "type": "apartments",
+    "area": 737.2955018021084,
+    "center_lng": 37.584099711111115,
+    "center_lat": 55.73219587777778
+  },
+  {
+    "id": 81,
+    "name": "",
+    "type": "apartments",
+    "area": 2133.7912572849214,
+    "center_lng": 37.570909921428566,
+    "center_lat": 55.73879079999999
+  },
+  {
+    "id": 82,
+    "name": "",
+    "type": "apartments",
+    "area": 681.6920278572294,
+    "center_lng": 37.58547844,
+    "center_lat": 55.73285619999999
+  },
+  {
+    "id": 83,
+    "name": "",
+    "type": "apartments",
+    "area": 1608.8638814784995,
+    "center_lng": 37.664339340000005,
+    "center_lat": 55.742081459999994
+  },
+  {
+    "id": 84,
+    "name": "Дом на набережной",
+    "type": "apartments",
+    "area": 7591.582333659433,
+    "center_lng": 37.61266260742858,
+    "center_lat": 55.74416024342861
+  },
+  {
+    "id": 85,
+    "name": "",
+    "type": "apartments",
+    "area": 1938.192510533685,
+    "center_lng": 37.649580908,
+    "center_lat": 55.74012233200001
+  },
+  {
+    "id": 86,
+    "name": "",
+    "type": "apartments",
+    "area": 910.9372516069949,
+    "center_lng": 37.653232037500004,
+    "center_lat": 55.734647474999996
+  },
+  {
+    "id": 87,
+    "name": "",
+    "type": "apartments",
+    "area": 917.8875496727397,
+    "center_lng": 37.6538867375,
+    "center_lat": 55.73480115
+  },
+  {
+    "id": 88,
+    "name": "",
+    "type": "apartments",
+    "area": 915.5962629343057,
+    "center_lng": 37.6545844625,
+    "center_lat": 55.734971625
+  },
+  {
+    "id": 89,
+    "name": "",
+    "type": "apartments",
+    "area": 919.2082944040932,
+    "center_lng": 37.6553064,
+    "center_lat": 55.735154475
+  },
+  {
+    "id": 90,
+    "name": "",
+    "type": "apartments",
+    "area": 1036.7534620154456,
+    "center_lng": 37.6558371,
+    "center_lat": 55.73542895714286
+  },
+  {
+    "id": 91,
+    "name": "",
+    "type": "apartments",
+    "area": 2573.5834752203145,
+    "center_lng": 37.65127413157895,
+    "center_lat": 55.73401105789473
+  },
+  {
+    "id": 92,
+    "name": "",
+    "type": "apartments",
+    "area": 1506.2231154635037,
+    "center_lng": 37.651367427272724,
+    "center_lat": 55.73729675454545
+  },
+  {
+    "id": 93,
+    "name": "",
+    "type": "apartments",
+    "area": 2816.015516498239,
+    "center_lng": 37.65226489310344,
+    "center_lat": 55.736066462068955
+  },
+  {
+    "id": 94,
+    "name": "",
+    "type": "apartments",
+    "area": 536.7963770971172,
+    "center_lng": 37.654250121428575,
+    "center_lat": 55.736116971428565
+  },
+  {
+    "id": 95,
+    "name": "",
+    "type": "apartments",
+    "area": 489.4268680242608,
+    "center_lng": 37.652086747619045,
+    "center_lat": 55.73713046666667
+  },
+  {
+    "id": 96,
+    "name": "",
+    "type": "apartments",
+    "area": 787.9603471237305,
+    "center_lng": 37.65226367,
+    "center_lat": 55.738419379999996
+  },
+  {
+    "id": 97,
+    "name": "",
+    "type": "apartments",
+    "area": 595.8343729819919,
+    "center_lng": 37.589517400000005,
+    "center_lat": 55.734489466666666
+  },
+  {
+    "id": 98,
+    "name": "",
+    "type": "apartments",
+    "area": 982.9495484401426,
+    "center_lng": 37.59171598666667,
+    "center_lat": 55.733567220000005
+  },
+  {
+    "id": 99,
+    "name": "",
+    "type": "apartments",
+    "area": 1382.1496682990864,
+    "center_lng": 37.585797840000005,
+    "center_lat": 55.733589759999994
+  },
+  {
+    "id": 100,
+    "name": "",
+    "type": "apartments",
+    "area": 384.2410316277688,
+    "center_lng": 37.59084566153846,
+    "center_lat": 55.73355232307693
+  },
+  {
+    "id": 101,
+    "name": "",
+    "type": "apartments",
+    "area": 1314.1034884980947,
+    "center_lng": 37.59582235625,
+    "center_lat": 55.734455131249995
+  },
+  {
+    "id": 102,
+    "name": "",
+    "type": "apartments",
+    "area": 1259.7334669791176,
+    "center_lng": 37.59570483571429,
+    "center_lat": 55.73391909285714
+  },
+  {
+    "id": 103,
+    "name": "",
+    "type": "apartments",
+    "area": 369.95737901788124,
+    "center_lng": 37.588041585714286,
+    "center_lat": 55.735971542857136
+  },
+  {
+    "id": 104,
+    "name": "",
+    "type": "apartments",
+    "area": 369.85768544088893,
+    "center_lng": 37.58663497333334,
+    "center_lat": 55.73675586
+  },
+  {
+    "id": 105,
+    "name": "",
+    "type": "apartments",
+    "area": 611.0342686234026,
+    "center_lng": 37.58464403333333,
+    "center_lat": 55.73750328333333
+  },
+  {
+    "id": 106,
+    "name": "",
+    "type": "apartments",
+    "area": 243.12354060791998,
+    "center_lng": 37.59027397999999,
+    "center_lat": 55.73264398
+  },
+  {
+    "id": 107,
+    "name": "",
+    "type": "apartments",
+    "area": 369.7891994681642,
+    "center_lng": 37.585623964285716,
+    "center_lat": 55.737242249999994
+  },
+  {
+    "id": 108,
+    "name": "",
+    "type": "apartments",
+    "area": 533.8455350916543,
+    "center_lng": 37.58763153333334,
+    "center_lat": 55.73742791666667
+  },
+  {
+    "id": 109,
+    "name": "",
+    "type": "apartments",
+    "area": 440.08940061250814,
+    "center_lng": 37.588052166666664,
+    "center_lat": 55.73723518333333
+  },
+  {
+    "id": 110,
+    "name": "",
+    "type": "apartments",
+    "area": 765.1186996656811,
+    "center_lng": 37.587150099999995,
+    "center_lat": 55.73753081666666
+  },
+  {
+    "id": 111,
+    "name": "",
+    "type": "apartments",
+    "area": 545.4666413356698,
+    "center_lng": 37.588232999999995,
+    "center_lat": 55.73663156666666
+  },
+  {
+    "id": 112,
+    "name": "",
+    "type": "apartments",
+    "area": 839.0754062712625,
+    "center_lng": 37.588186074999996,
+    "center_lat": 55.73549305
+  },
+  {
+    "id": 113,
+    "name": "",
+    "type": "apartments",
+    "area": 700.9618874915773,
+    "center_lng": 37.58911635,
+    "center_lat": 55.73593668333333
+  },
+  {
+    "id": 114,
+    "name": "",
+    "type": "apartments",
+    "area": 686.4110070856266,
+    "center_lng": 37.58953339999999,
+    "center_lat": 55.73622375714285
+  },
+  {
+    "id": 115,
+    "name": "",
+    "type": "apartments",
+    "area": 1029.6912003639836,
+    "center_lng": 37.58139401388889,
+    "center_lat": 55.736014986111115
+  },
+  {
+    "id": 116,
+    "name": "",
+    "type": "apartments",
+    "area": 424.48158430455015,
+    "center_lng": 37.5824282,
+    "center_lat": 55.736446449999995
+  },
+  {
+    "id": 117,
+    "name": "",
+    "type": "apartments",
+    "area": 619.3367519295845,
+    "center_lng": 37.5813795117647,
+    "center_lat": 55.732173047058815
+  },
+  {
+    "id": 118,
+    "name": "",
+    "type": "apartments",
+    "area": 348.1539857631027,
+    "center_lng": 37.597430890909095,
+    "center_lat": 55.74461506363636
+  },
+  {
+    "id": 119,
+    "name": "",
+    "type": "apartments",
+    "area": 474.20940866861275,
+    "center_lng": 37.59061968,
+    "center_lat": 55.74023206666667
+  },
+  {
+    "id": 120,
+    "name": "",
+    "type": "apartments",
+    "area": 903.0875261917735,
+    "center_lng": 37.591233777777774,
+    "center_lat": 55.739878911111106
+  },
+  {
+    "id": 121,
+    "name": "",
+    "type": "apartments",
+    "area": 391.0421826362178,
+    "center_lng": 37.59430827777778,
+    "center_lat": 55.74023543333333
+  },
+  {
+    "id": 122,
+    "name": "",
+    "type": "apartments",
+    "area": 1772.0981412567653,
+    "center_lng": 37.588465155555554,
+    "center_lat": 55.73849132222222
+  },
+  {
+    "id": 123,
+    "name": "",
+    "type": "apartments",
+    "area": 1348.0301330669704,
+    "center_lng": 37.58976931428572,
+    "center_lat": 55.73965804285714
+  },
+  {
+    "id": 124,
+    "name": "",
+    "type": "apartments",
+    "area": 951.5754912230669,
+    "center_lng": 37.6611787125,
+    "center_lat": 55.7325777375
+  },
+  {
+    "id": 125,
+    "name": "",
+    "type": "apartments",
+    "area": 643.2089204687537,
+    "center_lng": 37.6624812625,
+    "center_lat": 55.733355062499996
+  },
+  {
+    "id": 126,
+    "name": "",
+    "type": "apartments",
+    "area": 614.4612881622979,
+    "center_lng": 37.66307768888889,
+    "center_lat": 55.73296286666667
+  },
+  {
+    "id": 127,
+    "name": "",
+    "type": "apartments",
+    "area": 956.1560604857897,
+    "center_lng": 37.6235941,
+    "center_lat": 55.737208975
+  },
+  {
+    "id": 128,
+    "name": "",
+    "type": "apartments",
+    "area": 1964.1521848605082,
+    "center_lng": 37.628144448936176,
+    "center_lat": 55.73493166170213
+  },
+  {
+    "id": 129,
+    "name": "",
+    "type": "apartments",
+    "area": 865.609837545247,
+    "center_lng": 37.62862116666667,
+    "center_lat": 55.734760050000006
+  },
+  {
+    "id": 130,
+    "name": "",
+    "type": "apartments",
+    "area": 910.6959441661901,
+    "center_lng": 37.660790475000006,
+    "center_lat": 55.74234345499999
+  },
+  {
+    "id": 131,
+    "name": "",
+    "type": "apartments",
+    "area": 467.46011853171086,
+    "center_lng": 37.58823136428572,
+    "center_lat": 55.74450802142858
+  },
+  {
+    "id": 132,
+    "name": "",
+    "type": "apartments",
+    "area": 469.37499159591124,
+    "center_lng": 37.5880534875,
+    "center_lat": 55.74489327916667
+  },
+  {
+    "id": 133,
+    "name": "",
+    "type": "apartments",
+    "area": 1584.9936842817774,
+    "center_lng": 37.66180271063829,
+    "center_lat": 55.74307808510638
+  },
+  {
+    "id": 134,
+    "name": "",
+    "type": "apartments",
+    "area": 750.5098845302927,
+    "center_lng": 37.66288907777778,
+    "center_lat": 55.74233842222222
+  },
+  {
+    "id": 135,
+    "name": "",
+    "type": "apartments",
+    "area": 572.8241159318269,
+    "center_lng": 37.6599541875,
+    "center_lat": 55.74295763124999
+  },
+  {
+    "id": 136,
+    "name": "",
+    "type": "apartments",
+    "area": 220.28316240423288,
+    "center_lng": 37.663323840000004,
+    "center_lat": 55.74205432000001
+  },
+  {
+    "id": 137,
+    "name": "",
+    "type": "apartments",
+    "area": 718.5910951745898,
+    "center_lng": 37.66211162631579,
+    "center_lat": 55.74255445789474
+  },
+  {
+    "id": 138,
+    "name": "",
+    "type": "apartments",
+    "area": 687.4633367891242,
+    "center_lng": 37.6603024625,
+    "center_lat": 55.735328537499996
+  },
+  {
+    "id": 139,
+    "name": "",
+    "type": "apartments",
+    "area": 795.0021833764672,
+    "center_lng": 37.6616069625,
+    "center_lat": 55.73432677500001
+  },
+  {
+    "id": 140,
+    "name": "",
+    "type": "apartments",
+    "area": 874.6040354007562,
+    "center_lng": 37.66066860769231,
+    "center_lat": 55.734869292307685
+  },
+  {
+    "id": 141,
+    "name": "",
+    "type": "apartments",
+    "area": 1339.1113452837442,
+    "center_lng": 37.662108580952385,
+    "center_lat": 55.735392466666674
+  },
+  {
+    "id": 142,
+    "name": "",
+    "type": "apartments",
+    "area": 927.8562906284083,
+    "center_lng": 37.66048235,
+    "center_lat": 55.7360365
+  },
+  {
+    "id": 143,
+    "name": "",
+    "type": "apartments",
+    "area": 490.2425483811169,
+    "center_lng": 37.6593879,
+    "center_lat": 55.73582877692308
+  },
+  {
+    "id": 144,
+    "name": "",
+    "type": "apartments",
+    "area": 446.2000470929733,
+    "center_lng": 37.661814175,
+    "center_lat": 55.733821125
+  },
+  {
+    "id": 145,
+    "name": "",
+    "type": "apartments",
+    "area": 429.55666146735336,
+    "center_lng": 37.579422799999996,
+    "center_lat": 55.741808299999995
+  },
+  {
+    "id": 146,
+    "name": "",
+    "type": "apartments",
+    "area": 516.9046465980995,
+    "center_lng": 37.57904935,
+    "center_lat": 55.741465183333325
+  },
+  {
+    "id": 147,
+    "name": "",
+    "type": "apartments",
+    "area": 642.4429329384786,
+    "center_lng": 37.581524,
+    "center_lat": 55.74111244000001
+  },
+  {
+    "id": 148,
+    "name": "",
+    "type": "apartments",
+    "area": 686.3048397040674,
+    "center_lng": 37.582057025,
+    "center_lat": 55.74121635
+  },
+  {
+    "id": 149,
+    "name": "",
+    "type": "apartments",
+    "area": 1348.710791246989,
+    "center_lng": 37.58403842222222,
+    "center_lat": 55.74059402222222
+  },
+  {
+    "id": 150,
+    "name": "",
+    "type": "apartments",
+    "area": 677.2763929009905,
+    "center_lng": 37.58461565555555,
+    "center_lat": 55.73950413333333
+  },
+  {
+    "id": 151,
+    "name": "",
+    "type": "apartments",
+    "area": 1415.7549057468675,
+    "center_lng": 37.58415539166667,
+    "center_lat": 55.73959997499998
+  },
+  {
+    "id": 152,
+    "name": "",
+    "type": "apartments",
+    "area": 464.92559857620483,
+    "center_lng": 37.58768911250001,
+    "center_lat": 55.742606525
+  },
+  {
+    "id": 153,
+    "name": "",
+    "type": "apartments",
+    "area": 2248.7161504680453,
+    "center_lng": 37.58532305000001,
+    "center_lat": 55.74185651666667
+  },
+  {
+    "id": 154,
+    "name": "",
+    "type": "apartments",
+    "area": 566.4345992486636,
+    "center_lng": 37.6577326875,
+    "center_lat": 55.7360944875
+  },
+  {
+    "id": 155,
+    "name": "",
+    "type": "apartments",
+    "area": 1229.7643535448178,
+    "center_lng": 37.65875855555556,
+    "center_lat": 55.736341322222216
+  },
+  {
+    "id": 156,
+    "name": "",
+    "type": "apartments",
+    "area": 461.2849966507349,
+    "center_lng": 37.658471925,
+    "center_lat": 55.73680615000001
+  },
+  {
+    "id": 157,
+    "name": "",
+    "type": "apartments",
+    "area": 624.2234992509948,
+    "center_lng": 37.658062124999994,
+    "center_lat": 55.73802735000001
+  },
+  {
+    "id": 158,
+    "name": "",
+    "type": "apartments",
+    "area": 608.4811436862999,
+    "center_lng": 37.6588526,
+    "center_lat": 55.73733180000001
+  },
+  {
+    "id": 159,
+    "name": "",
+    "type": "apartments",
+    "area": 975.3118245807725,
+    "center_lng": 37.65437512,
+    "center_lat": 55.733776379999995
+  },
+  {
+    "id": 160,
+    "name": "",
+    "type": "apartments",
+    "area": 492.3391153482695,
+    "center_lng": 37.662103225,
+    "center_lat": 55.73231482499999
+  },
+  {
+    "id": 161,
+    "name": "",
+    "type": "apartments",
+    "area": 834.8759796643084,
+    "center_lng": 37.65785115,
+    "center_lat": 55.739507724999996
+  },
+  {
+    "id": 162,
+    "name": "",
+    "type": "apartments",
+    "area": 717.3218026901168,
+    "center_lng": 37.65990578571428,
+    "center_lat": 55.73971995714286
+  },
+  {
+    "id": 163,
+    "name": "",
+    "type": "apartments",
+    "area": 746.8464779442587,
+    "center_lng": 37.66064178571429,
+    "center_lat": 55.73953048571428
+  },
+  {
+    "id": 164,
+    "name": "",
+    "type": "apartments",
+    "area": 567.9027422483325,
+    "center_lng": 37.661454963636366,
+    "center_lat": 55.739799727272725
+  },
+  {
+    "id": 165,
+    "name": "",
+    "type": "apartments",
+    "area": 700.933501337934,
+    "center_lng": 37.589576013333335,
+    "center_lat": 55.74030152
+  },
+  {
+    "id": 166,
+    "name": "",
+    "type": "apartments",
+    "area": 312.0373331513554,
+    "center_lng": 37.588800875,
+    "center_lat": 55.74124270000001
+  },
+  {
+    "id": 167,
+    "name": "",
+    "type": "apartments",
+    "area": 1153.1103869317374,
+    "center_lng": 37.58835130625,
+    "center_lat": 55.74214555625001
+  },
+  {
+    "id": 168,
+    "name": "",
+    "type": "apartments",
+    "area": 852.3911752529883,
+    "center_lng": 37.58888876428572,
+    "center_lat": 55.74195564999999
+  },
+  {
+    "id": 169,
+    "name": "Жилой комплекс \"Стольник",
+    "type": "apartments",
+    "area": 1279.0097532064908,
+    "center_lng": 37.58952960833334,
+    "center_lat": 55.741717083333334
+  },
+  {
+    "id": 170,
+    "name": "",
+    "type": "apartments",
+    "area": 1406.947966425731,
+    "center_lng": 37.59187423529412,
+    "center_lat": 55.741438929411764
+  },
+  {
+    "id": 171,
+    "name": "",
+    "type": "apartments",
+    "area": 453.72042283453345,
+    "center_lng": 37.59291618333334,
+    "center_lat": 55.74217242500001
+  },
+  {
+    "id": 172,
+    "name": "",
+    "type": "apartments",
+    "area": 951.3644935101016,
+    "center_lng": 37.59350349999999,
+    "center_lat": 55.74182730909092
+  },
+  {
+    "id": 173,
+    "name": "",
+    "type": "apartments",
+    "area": 394.73699498276204,
+    "center_lng": 37.59327613999999,
+    "center_lat": 55.74167940666666
+  },
+  {
+    "id": 174,
+    "name": "",
+    "type": "apartments",
+    "area": 1346.1198507050124,
+    "center_lng": 37.592747888000005,
+    "center_lat": 55.7415609
+  },
+  {
+    "id": 175,
+    "name": "",
+    "type": "apartments",
+    "area": 649.0901698031822,
+    "center_lng": 37.591540921428575,
+    "center_lat": 55.74291630000001
+  },
+  {
+    "id": 176,
+    "name": "",
+    "type": "apartments",
+    "area": 373.7064754046649,
+    "center_lng": 37.59110232727273,
+    "center_lat": 55.74303884545454
+  },
+  {
+    "id": 177,
+    "name": "",
+    "type": "apartments",
+    "area": 382.24302233937584,
+    "center_lng": 37.59078029999999,
+    "center_lat": 55.743093529999996
+  },
+  {
+    "id": 178,
+    "name": "",
+    "type": "apartments",
+    "area": 632.1679118234031,
+    "center_lng": 37.5934484625,
+    "center_lat": 55.743455043750004
+  },
+  {
+    "id": 179,
+    "name": "",
+    "type": "apartments",
+    "area": 1195.1100671154209,
+    "center_lng": 37.587412074999996,
+    "center_lat": 55.73978755625001
+  },
+  {
+    "id": 180,
+    "name": "",
+    "type": "apartments",
+    "area": 848.5290172169581,
+    "center_lng": 37.58758233333333,
+    "center_lat": 55.73937466666666
+  },
+  {
+    "id": 181,
+    "name": "",
+    "type": "apartments",
+    "area": 703.2745555213912,
+    "center_lng": 37.5881782125,
+    "center_lat": 55.7396688625
+  },
+  {
+    "id": 182,
+    "name": "",
+    "type": "apartments",
+    "area": 460.3915723471871,
+    "center_lng": 37.588821874999994,
+    "center_lat": 55.73988685
+  },
+  {
+    "id": 183,
+    "name": "",
+    "type": "apartments",
+    "area": 1757.376082474459,
+    "center_lng": 37.6033519125,
+    "center_lat": 55.743557124999995
+  },
+  {
+    "id": 184,
+    "name": "",
+    "type": "apartments",
+    "area": 1494.5588295160178,
+    "center_lng": 37.60165786666666,
+    "center_lat": 55.743198233333324
+  },
+  {
+    "id": 185,
+    "name": "",
+    "type": "apartments",
+    "area": 310.8032658964521,
+    "center_lng": 37.60324482,
+    "center_lat": 55.742338059999994
+  },
+  {
+    "id": 186,
+    "name": "",
+    "type": "apartments",
+    "area": 732.2105826201057,
+    "center_lng": 37.60249433333333,
+    "center_lat": 55.74210081333334
+  },
+  {
+    "id": 187,
+    "name": "",
+    "type": "residential",
+    "area": 924.1924876329765,
+    "center_lng": 37.59563688461538,
+    "center_lat": 55.74494065384614
+  },
+  {
+    "id": 188,
+    "name": "",
+    "type": "apartments",
+    "area": 260.0187306982279,
+    "center_lng": 37.60093574,
+    "center_lat": 55.73771786000001
+  },
+  {
+    "id": 189,
+    "name": "",
+    "type": "apartments",
+    "area": 482.685240137314,
+    "center_lng": 37.602309075,
+    "center_lat": 55.73975235
+  },
+  {
+    "id": 190,
+    "name": "",
+    "type": "apartments",
+    "area": 636.2352655211766,
+    "center_lng": 37.60286025,
+    "center_lat": 55.74063795
+  },
+  {
+    "id": 191,
+    "name": "",
+    "type": "apartments",
+    "area": 526.8147149184023,
+    "center_lng": 37.60176994999999,
+    "center_lat": 55.740443025000005
+  },
+  {
+    "id": 192,
+    "name": "",
+    "type": "apartments",
+    "area": 986.4275560605713,
+    "center_lng": 37.6010859375,
+    "center_lat": 55.740793225000004
+  },
+  {
+    "id": 193,
+    "name": "",
+    "type": "apartments",
+    "area": 489.82618437336146,
+    "center_lng": 37.602198816666665,
+    "center_lat": 55.740303149999995
+  },
+  {
+    "id": 194,
+    "name": "",
+    "type": "apartments",
+    "area": 1303.8625637060663,
+    "center_lng": 37.59674056428571,
+    "center_lat": 55.74090290714286
+  },
+  {
+    "id": 195,
+    "name": "",
+    "type": "apartments",
+    "area": 369.9017748484394,
+    "center_lng": 37.5964693375,
+    "center_lat": 55.7418939375
+  },
+  {
+    "id": 196,
+    "name": "",
+    "type": "apartments",
+    "area": 683.6212619682861,
+    "center_lng": 37.614750875000006,
+    "center_lat": 55.732889
+  },
+  {
+    "id": 197,
+    "name": "",
+    "type": "apartments",
+    "area": 1354.3680295568408,
+    "center_lng": 37.61125795833333,
+    "center_lat": 55.732180375000006
+  },
+  {
+    "id": 198,
+    "name": "",
+    "type": "apartments",
+    "area": 421.89391795900286,
+    "center_lng": 37.616575499999996,
+    "center_lat": 55.734321480000006
+  },
+  {
+    "id": 199,
+    "name": "",
+    "type": "apartments",
+    "area": 418.3926235874549,
+    "center_lng": 37.62464612307693,
+    "center_lat": 55.733687676923076
+  },
+  {
+    "id": 200,
+    "name": "",
+    "type": "apartments",
+    "area": 1396.2589539919068,
+    "center_lng": 37.62862944375,
+    "center_lat": 55.738136893749996
+  },
+  {
+    "id": 201,
+    "name": "",
+    "type": "apartments",
+    "area": 648.8313980848045,
+    "center_lng": 37.618240633333336,
+    "center_lat": 55.73524923333334
+  },
+  {
+    "id": 202,
+    "name": "",
+    "type": "apartments",
+    "area": 1007.8917395590456,
+    "center_lng": 37.61574663125,
+    "center_lat": 55.736744981250006
+  },
+  {
+    "id": 203,
+    "name": "",
+    "type": "apartments",
+    "area": 1872.173042977913,
+    "center_lng": 37.61236717692307,
+    "center_lat": 55.73479516923077
+  },
+  {
+    "id": 204,
+    "name": "",
+    "type": "apartments",
+    "area": 900.7813701415007,
+    "center_lng": 37.611516483333325,
+    "center_lat": 55.73405018333333
+  },
+  {
+    "id": 205,
+    "name": "",
+    "type": "apartments",
+    "area": 282.1135266254533,
+    "center_lng": 37.630519025,
+    "center_lat": 55.732375275
+  },
+  {
+    "id": 206,
+    "name": "",
+    "type": "apartments",
+    "area": 584.787958249019,
+    "center_lng": 37.630967283333334,
+    "center_lat": 55.732409616666665
+  },
+  {
+    "id": 207,
+    "name": "",
+    "type": "apartments",
+    "area": 442.90096195879335,
+    "center_lng": 37.63224655,
+    "center_lat": 55.73267645
+  },
+  {
+    "id": 208,
+    "name": "",
+    "type": "apartments",
+    "area": 359.74793820349566,
+    "center_lng": 37.63209074,
+    "center_lat": 55.732934920000005
+  },
+  {
+    "id": 209,
+    "name": "",
+    "type": "apartments",
+    "area": 744.6101704135082,
+    "center_lng": 37.6317759875,
+    "center_lat": 55.73312290000001
+  },
+  {
+    "id": 210,
+    "name": "",
+    "type": "apartments",
+    "area": 403.1514323061508,
+    "center_lng": 37.63301382,
+    "center_lat": 55.73424272
+  },
+  {
+    "id": 211,
+    "name": "",
+    "type": "apartments",
+    "area": 406.62738595316665,
+    "center_lng": 37.63353964444444,
+    "center_lat": 55.73402504444445
+  },
+  {
+    "id": 212,
+    "name": "",
+    "type": "apartments",
+    "area": 336.4024301446561,
+    "center_lng": 37.63255964,
+    "center_lat": 55.73348518
+  },
+  {
+    "id": 213,
+    "name": "",
+    "type": "apartments",
+    "area": 386.4348034676829,
+    "center_lng": 37.63073838333333,
+    "center_lat": 55.73469305
+  },
+  {
+    "id": 214,
+    "name": "",
+    "type": "apartments",
+    "area": 590.1041467789297,
+    "center_lng": 37.63038896190477,
+    "center_lat": 55.73566774761904
+  },
+  {
+    "id": 215,
+    "name": "",
+    "type": "apartments",
+    "area": 410.4796261304553,
+    "center_lng": 37.62968034285715,
+    "center_lat": 55.73575911428571
+  },
+  {
+    "id": 216,
+    "name": "",
+    "type": "apartments",
+    "area": 560.2931677763587,
+    "center_lng": 37.6313797,
+    "center_lat": 55.73505514
+  },
+  {
+    "id": 217,
+    "name": "",
+    "type": "apartments",
+    "area": 786.6682154293294,
+    "center_lng": 37.63479447,
+    "center_lat": 55.733704880000005
+  },
+  {
+    "id": 218,
+    "name": "",
+    "type": "apartments",
+    "area": 176.37695128742453,
+    "center_lng": 37.63505564,
+    "center_lat": 55.734897679999996
+  },
+  {
+    "id": 219,
+    "name": "",
+    "type": "apartments",
+    "area": 368.26295185546894,
+    "center_lng": 37.6351949,
+    "center_lat": 55.7330362
+  },
+  {
+    "id": 220,
+    "name": "",
+    "type": "apartments",
+    "area": 373.4291351556963,
+    "center_lng": 37.63517554,
+    "center_lat": 55.73276298
+  },
+  {
+    "id": 221,
+    "name": "",
+    "type": "apartments",
+    "area": 1768.7798981218064,
+    "center_lng": 37.637501192857144,
+    "center_lat": 55.73395233571428
+  },
+  {
+    "id": 222,
+    "name": "",
+    "type": "apartments",
+    "area": 628.7039809759874,
+    "center_lng": 37.63835495000001,
+    "center_lat": 55.734394666666674
+  },
+  {
+    "id": 223,
+    "name": "",
+    "type": "apartments",
+    "area": 694.6419669436755,
+    "center_lng": 37.63890576666667,
+    "center_lat": 55.73451898333334
+  },
+  {
+    "id": 224,
+    "name": "",
+    "type": "apartments",
+    "area": 537.5948695045495,
+    "center_lng": 37.63800736785714,
+    "center_lat": 55.734848235714274
+  },
+  {
+    "id": 225,
+    "name": "",
+    "type": "apartments",
+    "area": 781.1737743510176,
+    "center_lng": 37.637585824999995,
+    "center_lat": 55.735537574999995
+  },
+  {
+    "id": 226,
+    "name": "",
+    "type": "apartments",
+    "area": 428.18199251524453,
+    "center_lng": 37.640431025,
+    "center_lat": 55.73425295
+  },
+  {
+    "id": 227,
+    "name": "",
+    "type": "apartments",
+    "area": 384.076190598645,
+    "center_lng": 37.63919902000001,
+    "center_lat": 55.73593012
+  },
+  {
+    "id": 228,
+    "name": "",
+    "type": "apartments",
+    "area": 372.3266390995846,
+    "center_lng": 37.63861828333334,
+    "center_lat": 55.73627625
+  },
+  {
+    "id": 229,
+    "name": "",
+    "type": "apartments",
+    "area": 792.808761507557,
+    "center_lng": 37.63875736999999,
+    "center_lat": 55.73501589
+  },
+  {
+    "id": 230,
+    "name": "",
+    "type": "apartments",
+    "area": 530.4187927014353,
+    "center_lng": 37.63913465,
+    "center_lat": 55.736404900000004
+  },
+  {
+    "id": 231,
+    "name": "",
+    "type": "apartments",
+    "area": 1215.061940841298,
+    "center_lng": 37.638368111111106,
+    "center_lat": 55.7354777
+  },
+  {
+    "id": 232,
+    "name": "",
+    "type": "apartments",
+    "area": 1192.5217247803685,
+    "center_lng": 37.639369466666665,
+    "center_lat": 55.73546455000001
+  },
+  {
+    "id": 233,
+    "name": "",
+    "type": "apartments",
+    "area": 409.0221334769613,
+    "center_lng": 37.640001850000004,
+    "center_lat": 55.7332495625
+  },
+  {
+    "id": 234,
+    "name": "",
+    "type": "apartments",
+    "area": 426.0042690742602,
+    "center_lng": 37.633995,
+    "center_lat": 55.7364618
+  },
+  {
+    "id": 235,
+    "name": "",
+    "type": "apartments",
+    "area": 666.8966098554654,
+    "center_lng": 37.632962025,
+    "center_lat": 55.737452975
+  },
+  {
+    "id": 236,
+    "name": "",
+    "type": "apartments",
+    "area": 1271.392864682098,
+    "center_lng": 37.634104646666664,
+    "center_lat": 55.73784831333332
+  },
+  {
+    "id": 237,
+    "name": "",
+    "type": "apartments",
+    "area": 226.48691440355623,
+    "center_lng": 37.633084175,
+    "center_lat": 55.7377847
+  },
+  {
+    "id": 238,
+    "name": "",
+    "type": "apartments",
+    "area": 1102.1116725846111,
+    "center_lng": 37.63331554666666,
+    "center_lat": 55.738468986666675
+  },
+  {
+    "id": 239,
+    "name": "",
+    "type": "apartments",
+    "area": 688.5941625009511,
+    "center_lng": 37.6383797,
+    "center_lat": 55.737227475000005
+  },
+  {
+    "id": 240,
+    "name": "",
+    "type": "apartments",
+    "area": 273.6193864532808,
+    "center_lng": 37.640892511111105,
+    "center_lat": 55.738306811111116
+  },
+  {
+    "id": 241,
+    "name": "",
+    "type": "apartments",
+    "area": 279.82039469147657,
+    "center_lng": 37.64099936,
+    "center_lat": 55.73806376
+  },
+  {
+    "id": 242,
+    "name": "",
+    "type": "apartments",
+    "area": 674.2294015825556,
+    "center_lng": 37.643265750000005,
+    "center_lat": 55.735456068750004
+  },
+  {
+    "id": 243,
+    "name": "",
+    "type": "apartments",
+    "area": 591.9900426374015,
+    "center_lng": 37.630251061538466,
+    "center_lat": 55.740021007692306
+  },
+  {
+    "id": 244,
+    "name": "",
+    "type": "apartments",
+    "area": 1520.1251739553718,
+    "center_lng": 37.62547814117647,
+    "center_lat": 55.743701535294115
+  },
+  {
+    "id": 245,
+    "name": "",
+    "type": "apartments",
+    "area": 376.3122595464744,
+    "center_lng": 37.616333440000005,
+    "center_lat": 55.73402118
+  },
+  {
+    "id": 246,
+    "name": "",
+    "type": "apartments",
+    "area": 466.7151842466863,
+    "center_lng": 37.6167069,
+    "center_lat": 55.7346986
+  },
+  {
+    "id": 247,
+    "name": "",
+    "type": "apartments",
+    "area": 335.1678364321774,
+    "center_lng": 37.61834940000001,
+    "center_lat": 55.734764057142854
+  },
+  {
+    "id": 248,
+    "name": "",
+    "type": "apartments",
+    "area": 995.3412643884566,
+    "center_lng": 37.57333603076923,
+    "center_lat": 55.736998003846146
+  },
+  {
+    "id": 249,
+    "name": "",
+    "type": "apartments",
+    "area": 726.2205640446633,
+    "center_lng": 37.572700499999996,
+    "center_lat": 55.736507625
+  },
+  {
+    "id": 250,
+    "name": "",
+    "type": "apartments",
+    "area": 396.29018745753484,
+    "center_lng": 37.569976875,
+    "center_lat": 55.736523500000004
+  },
+  {
+    "id": 251,
+    "name": "",
+    "type": "apartments",
+    "area": 540.0179706430229,
+    "center_lng": 37.57075219333333,
+    "center_lat": 55.73588852666667
+  },
+  {
+    "id": 252,
+    "name": "",
+    "type": "apartments",
+    "area": 582.4936149692257,
+    "center_lng": 37.57039735555556,
+    "center_lat": 55.736221244444444
+  },
+  {
+    "id": 253,
+    "name": "",
+    "type": "apartments",
+    "area": 1017.6036462042767,
+    "center_lng": 37.5701234,
+    "center_lat": 55.73558068000001
+  },
+  {
+    "id": 254,
+    "name": "",
+    "type": "apartments",
+    "area": 4179.764647317711,
+    "center_lng": 37.58269196538461,
+    "center_lat": 55.74190380769231
+  },
+  {
+    "id": 255,
+    "name": "",
+    "type": "apartments",
+    "area": 307.0916207315489,
+    "center_lng": 37.5753429,
+    "center_lat": 55.741791025
+  },
+  {
+    "id": 256,
+    "name": "",
+    "type": "apartments",
+    "area": 4012.4233442320815,
+    "center_lng": 37.603913991999995,
+    "center_lat": 55.739292348
+  },
+  {
+    "id": 257,
+    "name": "",
+    "type": "apartments",
+    "area": 1430.13600775093,
+    "center_lng": 37.60526978749999,
+    "center_lat": 55.73905953125
+  },
+  {
+    "id": 258,
+    "name": "",
+    "type": "residential",
+    "area": 1157.625365743784,
+    "center_lng": 37.60358085294117,
+    "center_lat": 55.73876623529412
+  },
+  {
+    "id": 259,
+    "name": "",
+    "type": "residential",
+    "area": 2186.3465765803885,
+    "center_lng": 37.60276425714285,
+    "center_lat": 55.73840259285714
+  },
+  {
+    "id": 260,
+    "name": "",
+    "type": "apartments",
+    "area": 2785.233779712277,
+    "center_lng": 37.59997045,
+    "center_lat": 55.741662135714286
+  },
+  {
+    "id": 261,
+    "name": "",
+    "type": "apartments",
+    "area": 1521.5429815199825,
+    "center_lng": 37.60066616666667,
+    "center_lat": 55.74233343333333
+  },
+  {
+    "id": 262,
+    "name": "",
+    "type": "apartments",
+    "area": 860.9795015848053,
+    "center_lng": 37.601837214285695,
+    "center_lat": 55.741771438095235
+  },
+  {
+    "id": 263,
+    "name": "",
+    "type": "apartments",
+    "area": 913.3746580579202,
+    "center_lng": 37.60440306666667,
+    "center_lat": 55.742042500000004
+  },
+  {
+    "id": 264,
+    "name": "",
+    "type": "apartments",
+    "area": 1001.5703308623062,
+    "center_lng": 37.602279926923075,
+    "center_lat": 55.74161478076924
+  },
+  {
+    "id": 265,
+    "name": "",
+    "type": "apartments",
+    "area": 1407.4194598988677,
+    "center_lng": 37.60537502580645,
+    "center_lat": 55.741216
+  },
+  {
+    "id": 266,
+    "name": "",
+    "type": "apartments",
+    "area": 636.8920453474058,
+    "center_lng": 37.60449204,
+    "center_lat": 55.741547000000004
+  },
+  {
+    "id": 267,
+    "name": "",
+    "type": "apartments",
+    "area": 4337.255424291757,
+    "center_lng": 37.60137651311475,
+    "center_lat": 55.742437044262296
+  },
+  {
+    "id": 268,
+    "name": "",
+    "type": "apartments",
+    "area": 935.1562694683662,
+    "center_lng": 37.60286382,
+    "center_lat": 55.74281492
+  },
+  {
+    "id": 269,
+    "name": "",
+    "type": "apartments",
+    "area": 395.81010539479973,
+    "center_lng": 37.602608790000005,
+    "center_lat": 55.74265810000001
+  },
+  {
+    "id": 270,
+    "name": "",
+    "type": "apartments",
+    "area": 1173.0220808662045,
+    "center_lng": 37.602145109999995,
+    "center_lat": 55.74294260000001
+  },
+  {
+    "id": 271,
+    "name": "",
+    "type": "residential",
+    "area": 1631.3463635185365,
+    "center_lng": 37.60191354705882,
+    "center_lat": 55.738784591176476
+  },
+  {
+    "id": 272,
+    "name": "",
+    "type": "apartments",
+    "area": 4009.791029448255,
+    "center_lng": 37.605595425,
+    "center_lat": 55.7399713125
+  },
+  {
+    "id": 273,
+    "name": "",
+    "type": "residential",
+    "area": 797.8176160347018,
+    "center_lng": 37.60590143571428,
+    "center_lat": 55.740567871428574
+  },
+  {
+    "id": 274,
+    "name": "",
+    "type": "apartments",
+    "area": 705.9548774816865,
+    "center_lng": 37.60623042,
+    "center_lat": 55.741403760000004
+  },
+  {
+    "id": 275,
+    "name": "«Дом-ларец» Перцова",
+    "type": "apartments",
+    "area": 988.95434075781,
+    "center_lng": 37.606337012500006,
+    "center_lat": 55.74249501874999
+  },
+  {
+    "id": 276,
+    "name": "",
+    "type": "apartments",
+    "area": 434.76244359827274,
+    "center_lng": 37.60122635714286,
+    "center_lat": 55.737744557142854
+  },
+  {
+    "id": 277,
+    "name": "",
+    "type": "apartments",
+    "area": 406.40430755359165,
+    "center_lng": 37.6017453,
+    "center_lat": 55.73820928333334
+  },
+  {
+    "id": 278,
+    "name": "",
+    "type": "apartments",
+    "area": 345.1749597035076,
+    "center_lng": 37.6066433375,
+    "center_lat": 55.74167903749999
+  },
+  {
+    "id": 279,
+    "name": "",
+    "type": "apartments",
+    "area": 311.0665623832829,
+    "center_lng": 37.606456486666666,
+    "center_lat": 55.74206368666666
+  },
+  {
+    "id": 280,
+    "name": "",
+    "type": "apartments",
+    "area": 133.74773515755007,
+    "center_lng": 37.60645492857143,
+    "center_lat": 55.74194584285714
+  },
+  {
+    "id": 281,
+    "name": "",
+    "type": "apartments",
+    "area": 326.54055897628996,
+    "center_lng": 37.606462820000004,
+    "center_lat": 55.74225491000001
+  },
+  {
+    "id": 282,
+    "name": "",
+    "type": "apartments",
+    "area": 1895.3049666236263,
+    "center_lng": 37.62193765789474,
+    "center_lat": 55.74112754736842
+  },
+  {
+    "id": 283,
+    "name": "Жилой комплекс \"Времена года",
+    "type": "apartments",
+    "area": 1398.5026598977065,
+    "center_lng": 37.61865115,
+    "center_lat": 55.73968356666666
+  },
+  {
+    "id": 284,
+    "name": "",
+    "type": "apartments",
+    "area": 2784.7510738590213,
+    "center_lng": 37.621304380000005,
+    "center_lat": 55.742361525
+  },
+  {
+    "id": 285,
+    "name": "",
+    "type": "apartments",
+    "area": 324.723558677909,
+    "center_lng": 37.62419680000001,
+    "center_lat": 55.742430262499994
+  },
+  {
+    "id": 286,
+    "name": "",
+    "type": "apartments",
+    "area": 581.2530405114987,
+    "center_lng": 37.62865355833335,
+    "center_lat": 55.743168491666665
+  },
+  {
+    "id": 287,
+    "name": "",
+    "type": "apartments",
+    "area": 1697.4493475781994,
+    "center_lng": 37.65822310833334,
+    "center_lat": 55.73497137500001
+  },
+  {
+    "id": 288,
+    "name": "",
+    "type": "apartments",
+    "area": 300.4613300434064,
+    "center_lng": 37.630246475,
+    "center_lat": 55.743132225000004
+  },
+  {
+    "id": 289,
+    "name": "",
+    "type": "apartments",
+    "area": 407.59363964765134,
+    "center_lng": 37.63032091666667,
+    "center_lat": 55.743419941666666
+  },
+  {
+    "id": 290,
+    "name": "",
+    "type": "apartments",
+    "area": 612.755669017459,
+    "center_lng": 37.628119999999996,
+    "center_lat": 55.74173618
+  },
+  {
+    "id": 291,
+    "name": "",
+    "type": "apartments",
+    "area": 980.6772998753653,
+    "center_lng": 37.65725815999999,
+    "center_lat": 55.74148641000001
+  },
+  {
+    "id": 292,
+    "name": "",
+    "type": "apartments",
+    "area": 509.731788049119,
+    "center_lng": 37.65640255714286,
+    "center_lat": 55.73644292857143
+  },
+  {
+    "id": 293,
+    "name": "",
+    "type": "apartments",
+    "area": 490.54473812627526,
+    "center_lng": 37.656731883333336,
+    "center_lat": 55.73616951666667
+  },
+  {
+    "id": 294,
+    "name": "",
+    "type": "apartments",
+    "area": 547.0954679814108,
+    "center_lng": 37.6561361,
+    "center_lat": 55.7367289
+  },
+  {
+    "id": 295,
+    "name": "",
+    "type": "apartments",
+    "area": 687.4224074967249,
+    "center_lng": 37.65842885454545,
+    "center_lat": 55.743429381818174
+  },
+  {
+    "id": 296,
+    "name": "",
+    "type": "apartments",
+    "area": 1447.3471334543565,
+    "center_lng": 37.662646699999996,
+    "center_lat": 55.74319902222223
+  },
+  {
+    "id": 297,
+    "name": "",
+    "type": "apartments",
+    "area": 981.6204095389118,
+    "center_lng": 37.66248623,
+    "center_lat": 55.74367515999999
+  },
+  {
+    "id": 298,
+    "name": "",
+    "type": "apartments",
+    "area": 812.5678575229775,
+    "center_lng": 37.663703500000004,
+    "center_lat": 55.7432201
+  },
+  {
+    "id": 299,
+    "name": "",
+    "type": "apartments",
+    "area": 492.06920564289317,
+    "center_lng": 37.66482495,
+    "center_lat": 55.742729983333334
+  },
+  {
+    "id": 300,
+    "name": "",
+    "type": "apartments",
+    "area": 659.0996231477915,
+    "center_lng": 37.66448800714285,
+    "center_lat": 55.742932135714284
+  },
+  {
+    "id": 301,
+    "name": "",
+    "type": "apartments",
+    "area": 702.6098186595368,
+    "center_lng": 37.617109985714286,
+    "center_lat": 55.74072417142859
+  },
+  {
+    "id": 302,
+    "name": "",
+    "type": "apartments",
+    "area": 1317.6218584729288,
+    "center_lng": 37.616688075,
+    "center_lat": 55.74126016875
+  },
+  {
+    "id": 303,
+    "name": "",
+    "type": "apartments",
+    "area": 1617.5141940758735,
+    "center_lng": 37.61646672258065,
+    "center_lat": 55.742033070967736
+  },
+  {
+    "id": 304,
+    "name": "",
+    "type": "apartments",
+    "area": 636.79643571305,
+    "center_lng": 37.61841102857143,
+    "center_lat": 55.74014842857144
+  },
+  {
+    "id": 305,
+    "name": "",
+    "type": "apartments",
+    "area": 1533.7215359454149,
+    "center_lng": 37.61926055,
+    "center_lat": 55.7410955
+  },
+  {
+    "id": 306,
+    "name": "",
+    "type": "apartments",
+    "area": 701.1389924217744,
+    "center_lng": 37.614714108333324,
+    "center_lat": 55.73627169166667
+  },
+  {
+    "id": 307,
+    "name": "",
+    "type": "apartments",
+    "area": 961.0991261540431,
+    "center_lng": 37.614564254545456,
+    "center_lat": 55.73601965454546
+  },
+  {
+    "id": 308,
+    "name": "",
+    "type": "apartments",
+    "area": 335.9569533310432,
+    "center_lng": 37.615623400000004,
+    "center_lat": 55.73567505
+  },
+  {
+    "id": 309,
+    "name": "",
+    "type": "apartments",
+    "area": 171.4953019165981,
+    "center_lng": 37.61593272,
+    "center_lat": 55.735613
+  },
+  {
+    "id": 310,
+    "name": "",
+    "type": "apartments",
+    "area": 545.5128331363527,
+    "center_lng": 37.615920933333335,
+    "center_lat": 55.73768493999999
+  },
+  {
+    "id": 311,
+    "name": "",
+    "type": "apartments",
+    "area": 325.2678549023071,
+    "center_lng": 37.61551115454546,
+    "center_lat": 55.73696529090909
+  },
+  {
+    "id": 312,
+    "name": "",
+    "type": "apartments",
+    "area": 905.3212650028925,
+    "center_lng": 37.61629965263158,
+    "center_lat": 55.7370737105263
+  },
+  {
+    "id": 313,
+    "name": "",
+    "type": "apartments",
+    "area": 1224.7918464212962,
+    "center_lng": 37.62490955625,
+    "center_lat": 55.7381358625
+  },
+  {
+    "id": 314,
+    "name": "",
+    "type": "apartments",
+    "area": 698.6138249031604,
+    "center_lng": 37.62627056111111,
+    "center_lat": 55.74047050555556
+  },
+  {
+    "id": 315,
+    "name": "",
+    "type": "apartments",
+    "area": 357.2892495457726,
+    "center_lng": 37.627257650000004,
+    "center_lat": 55.739532325
+  },
+  {
+    "id": 316,
+    "name": "",
+    "type": "apartments",
+    "area": 343.3417013800716,
+    "center_lng": 37.62613544,
+    "center_lat": 55.7399118
+  },
+  {
+    "id": 317,
+    "name": "",
+    "type": "apartments",
+    "area": 644.9773537404869,
+    "center_lng": 37.62672679999999,
+    "center_lat": 55.739976885714285
+  },
+  {
+    "id": 318,
+    "name": "",
+    "type": "apartments",
+    "area": 697.7749708337102,
+    "center_lng": 37.62627609285715,
+    "center_lat": 55.7401561642857
+  },
+  {
+    "id": 319,
+    "name": "",
+    "type": "apartments",
+    "area": 364.85722581214867,
+    "center_lng": 37.62664254375,
+    "center_lat": 55.7393405
+  },
+  {
+    "id": 320,
+    "name": "Дом Доктора Эберлина",
+    "type": "apartments",
+    "area": 441.4648673588935,
+    "center_lng": 37.626240127906975,
+    "center_lat": 55.740759732558146
+  },
+  {
+    "id": 321,
+    "name": "",
+    "type": "apartments",
+    "area": 595.4947732695963,
+    "center_lng": 37.61824665,
+    "center_lat": 55.73878044999999
+  },
+  {
+    "id": 322,
+    "name": "",
+    "type": "apartments",
+    "area": 543.7909680396226,
+    "center_lng": 37.61919280000001,
+    "center_lat": 55.738903629999996
+  },
+  {
+    "id": 323,
+    "name": "",
+    "type": "apartments",
+    "area": 1387.9485359787768,
+    "center_lng": 37.61576908235295,
+    "center_lat": 55.741065317647056
+  },
+  {
+    "id": 324,
+    "name": "",
+    "type": "apartments",
+    "area": 1404.5868920353869,
+    "center_lng": 37.6211028125,
+    "center_lat": 55.733312375
+  },
+  {
+    "id": 325,
+    "name": "",
+    "type": "apartments",
+    "area": 587.3860720460078,
+    "center_lng": 37.62272433333333,
+    "center_lat": 55.733493286666665
+  },
+  {
+    "id": 326,
+    "name": "",
+    "type": "apartments",
+    "area": 1086.65025917871,
+    "center_lng": 37.628470533333335,
+    "center_lat": 55.732541016666666
+  },
+  {
+    "id": 327,
+    "name": "Жилой комплекс \"Дипломат",
+    "type": "apartments",
+    "area": 2035.2787657722226,
+    "center_lng": 37.62238782682928,
+    "center_lat": 55.73284174146341
+  },
+  {
+    "id": 328,
+    "name": "",
+    "type": "apartments",
+    "area": 551.3212026114988,
+    "center_lng": 37.62212232857142,
+    "center_lat": 55.733136342857144
+  },
+  {
+    "id": 329,
+    "name": "Римский дом",
+    "type": "apartments",
+    "area": 2113.7283889190403,
+    "center_lng": 37.621177592,
+    "center_lat": 55.733956088000006
+  },
+  {
+    "id": 330,
+    "name": "",
+    "type": "apartments",
+    "area": 1031.7299855471076,
+    "center_lng": 37.63438764285714,
+    "center_lat": 55.73362790714286
+  },
+  {
+    "id": 331,
+    "name": "",
+    "type": "apartments",
+    "area": 166.30850947985326,
+    "center_lng": 37.6295604,
+    "center_lat": 55.732527775
+  },
+  {
+    "id": 332,
+    "name": "",
+    "type": "apartments",
+    "area": 409.2638772444124,
+    "center_lng": 37.62987052857143,
+    "center_lat": 55.73275308571427
+  },
+  {
+    "id": 333,
+    "name": "",
+    "type": "apartments",
+    "area": 355.37621716535944,
+    "center_lng": 37.633214075,
+    "center_lat": 55.732745
+  },
+  {
+    "id": 334,
+    "name": "",
+    "type": "apartments",
+    "area": 311.64106255615786,
+    "center_lng": 37.62636771666667,
+    "center_lat": 55.73455096666667
+  },
+  {
+    "id": 335,
+    "name": "",
+    "type": "apartments",
+    "area": 681.5382711297971,
+    "center_lng": 37.62488109999999,
+    "center_lat": 55.744741833333336
+  },
+  {
+    "id": 336,
+    "name": "",
+    "type": "apartments",
+    "area": 386.873916667502,
+    "center_lng": 37.62875440833333,
+    "center_lat": 55.74467257500001
+  },
+  {
+    "id": 337,
+    "name": "",
+    "type": "apartments",
+    "area": 758.6297322557341,
+    "center_lng": 37.62764395,
+    "center_lat": 55.74166880000001
+  },
+  {
+    "id": 338,
+    "name": "",
+    "type": "apartments",
+    "area": 451.7486211806788,
+    "center_lng": 37.625108635714284,
+    "center_lat": 55.74441558571429
+  },
+  {
+    "id": 339,
+    "name": "",
+    "type": "apartments",
+    "area": 515.277181230677,
+    "center_lng": 37.627719760000005,
+    "center_lat": 55.74226417
+  },
+  {
+    "id": 340,
+    "name": "",
+    "type": "apartments",
+    "area": 394.9817210521662,
+    "center_lng": 37.62771926,
+    "center_lat": 55.742113059999994
+  },
+  {
+    "id": 341,
+    "name": "",
+    "type": "apartments",
+    "area": 592.600902216533,
+    "center_lng": 37.626183075,
+    "center_lat": 55.74501035
+  },
+  {
+    "id": 342,
+    "name": "",
+    "type": "apartments",
+    "area": 992.614975429319,
+    "center_lng": 37.5844187,
+    "center_lat": 55.732581585714286
+  },
+  {
+    "id": 343,
+    "name": "",
+    "type": "apartments",
+    "area": 413.5060752940972,
+    "center_lng": 37.64054625714285,
+    "center_lat": 55.7335662
+  },
+  {
+    "id": 344,
+    "name": "",
+    "type": "apartments",
+    "area": 490.66151781955836,
+    "center_lng": 37.5882375375,
+    "center_lat": 55.744225575
+  },
+  {
+    "id": 345,
+    "name": "",
+    "type": "apartments",
+    "area": 2157.2075568902437,
+    "center_lng": 37.62552686785714,
+    "center_lat": 55.74246071428571
+  },
+  {
+    "id": 346,
+    "name": "",
+    "type": "apartments",
+    "area": 5619.551801585157,
+    "center_lng": 37.59936563777778,
+    "center_lat": 55.736762288888876
+  },
+  {
+    "id": 347,
+    "name": "",
+    "type": "apartments",
+    "area": 1241.851229023001,
+    "center_lng": 37.59663296111111,
+    "center_lat": 55.739080233333326
+  },
+  {
+    "id": 348,
+    "name": "",
+    "type": "apartments",
+    "area": 336.43493194214426,
+    "center_lng": 37.5956428,
+    "center_lat": 55.73789580000001
+  },
+  {
+    "id": 349,
+    "name": "",
+    "type": "apartments",
+    "area": 819.0599311258708,
+    "center_lng": 37.60237553333334,
+    "center_lat": 55.74395475833333
+  },
+  {
+    "id": 350,
+    "name": "",
+    "type": "apartments",
+    "area": 454.34290496827947,
+    "center_lng": 37.62775201666667,
+    "center_lat": 55.743765966666665
+  },
+  {
+    "id": 351,
+    "name": "",
+    "type": "apartments",
+    "area": 1067.4168636827862,
+    "center_lng": 37.631382255555565,
+    "center_lat": 55.7442308
+  },
+  {
+    "id": 352,
+    "name": "",
+    "type": "apartments",
+    "area": 1868.0694551176152,
+    "center_lng": 37.63025636129032,
+    "center_lat": 55.74120383548387
+  },
+  {
+    "id": 353,
+    "name": "",
+    "type": "apartments",
+    "area": 1180.0182404392058,
+    "center_lng": 37.63259673333334,
+    "center_lat": 55.742782058333326
+  },
+  {
+    "id": 354,
+    "name": "",
+    "type": "apartments",
+    "area": 1063.5799205553674,
+    "center_lng": 37.63320562083334,
+    "center_lat": 55.74260493333333
+  },
+  {
+    "id": 355,
+    "name": "",
+    "type": "apartments",
+    "area": 708.1297380486135,
+    "center_lng": 37.62865854545455,
+    "center_lat": 55.738729799999994
+  },
+  {
+    "id": 356,
+    "name": "",
+    "type": "apartments",
+    "area": 1454.1151957277802,
+    "center_lng": 37.61111813437499,
+    "center_lat": 55.736533375
+  },
+  {
+    "id": 357,
+    "name": "",
+    "type": "apartments",
+    "area": 231.9528399132099,
+    "center_lng": 37.629076999999995,
+    "center_lat": 55.74471308571428
+  },
+  {
+    "id": 358,
+    "name": "",
+    "type": "apartments",
+    "area": 1146.0282104605242,
+    "center_lng": 37.62951397692307,
+    "center_lat": 55.74392446153847
+  },
+  {
+    "id": 359,
+    "name": "",
+    "type": "apartments",
+    "area": 410.041129153026,
+    "center_lng": 37.6287745,
+    "center_lat": 55.744125849999996
+  },
+  {
+    "id": 360,
+    "name": "",
+    "type": "apartments",
+    "area": 1033.9151186655804,
+    "center_lng": 37.59460093,
+    "center_lat": 55.732798630000005
+  },
+  {
+    "id": 361,
+    "name": "",
+    "type": "apartments",
+    "area": 1229.6024384510895,
+    "center_lng": 37.59511094285714,
+    "center_lat": 55.733240528571436
+  },
+  {
+    "id": 362,
+    "name": "",
+    "type": "apartments",
+    "area": 545.8877813829895,
+    "center_lng": 37.576609049999995,
+    "center_lat": 55.73806029
+  },
+  {
+    "id": 363,
+    "name": "",
+    "type": "apartments",
+    "area": 626.9842209041069,
+    "center_lng": 37.5826769,
+    "center_lat": 55.7448016
+  },
+  {
+    "id": 364,
+    "name": "",
+    "type": "apartments",
+    "area": 246.79676027718654,
+    "center_lng": 37.648467328571435,
+    "center_lat": 55.73871068571428
+  },
+  {
+    "id": 365,
+    "name": "",
+    "type": "apartments",
+    "area": 493.36647216637635,
+    "center_lng": 37.58125037692308,
+    "center_lat": 55.73973945384615
+  },
+  {
+    "id": 366,
+    "name": "",
+    "type": "apartments",
+    "area": 1266.0605685441974,
+    "center_lng": 37.584539375,
+    "center_lat": 55.73901258125
+  },
+  {
+    "id": 367,
+    "name": "",
+    "type": "apartments",
+    "area": 575.4153652289293,
+    "center_lng": 37.59229685,
+    "center_lat": 55.73827514999999
+  },
+  {
+    "id": 368,
+    "name": "",
+    "type": "apartments",
+    "area": 673.5126950538896,
+    "center_lng": 37.59271092307692,
+    "center_lat": 55.73798926153846
+  },
+  {
+    "id": 369,
+    "name": "",
+    "type": "apartments",
+    "area": 359.15738269705156,
+    "center_lng": 37.59489694444444,
+    "center_lat": 55.73935949999999
+  },
+  {
+    "id": 370,
+    "name": "",
+    "type": "apartments",
+    "area": 674.7162274183825,
+    "center_lng": 37.59019541666667,
+    "center_lat": 55.73997542499999
+  },
+  {
+    "id": 371,
+    "name": "",
+    "type": "apartments",
+    "area": 432.6164220670099,
+    "center_lng": 37.58583782307692,
+    "center_lat": 55.74410305384616
+  },
+  {
+    "id": 372,
+    "name": "",
+    "type": "apartments",
+    "area": 526.3233030483605,
+    "center_lng": 37.59192664285714,
+    "center_lat": 55.74031941428571
+  },
+  {
+    "id": 373,
+    "name": "",
+    "type": "apartments",
+    "area": 747.3231339634989,
+    "center_lng": 37.59460056923078,
+    "center_lat": 55.739713015384616
+  },
+  {
+    "id": 374,
+    "name": "",
+    "type": "apartments",
+    "area": 644.6133047036641,
+    "center_lng": 37.59148037692308,
+    "center_lat": 55.74033357692308
+  },
+  {
+    "id": 375,
+    "name": "",
+    "type": "apartments",
+    "area": 553.3909301640108,
+    "center_lng": 37.59169754761904,
+    "center_lat": 55.740600038095245
+  },
+  {
+    "id": 376,
+    "name": "",
+    "type": "apartments",
+    "area": 382.9766533937758,
+    "center_lng": 37.58876716249999,
+    "center_lat": 55.7442622375
+  },
+  {
+    "id": 377,
+    "name": "",
+    "type": "apartments",
+    "area": 1846.7103208450224,
+    "center_lng": 37.57426248333333,
+    "center_lat": 55.739986290476196
+  },
+  {
+    "id": 378,
+    "name": "",
+    "type": "apartments",
+    "area": 670.2483238025416,
+    "center_lng": 37.583009499999996,
+    "center_lat": 55.7424917875
+  },
+  {
+    "id": 379,
+    "name": "",
+    "type": "apartments",
+    "area": 581.8678320160656,
+    "center_lng": 37.58900910526315,
+    "center_lat": 55.74400487894737
+  },
+  {
+    "id": 380,
+    "name": "",
+    "type": "apartments",
+    "area": 5486.7520894848985,
+    "center_lng": 37.58090268000001,
+    "center_lat": 55.74273637333333
+  },
+  {
+    "id": 381,
+    "name": "",
+    "type": "apartments",
+    "area": 270.8979739669909,
+    "center_lng": 37.5828049,
+    "center_lat": 55.7445156
+  },
+  {
+    "id": 382,
+    "name": "",
+    "type": "apartments",
+    "area": 35.27900027868458,
+    "center_lng": 37.58510525,
+    "center_lat": 55.73277577499999
+  },
+  {
+    "id": 383,
+    "name": "",
+    "type": "apartments",
+    "area": 399.15125024589696,
+    "center_lng": 37.595649425000005,
+    "center_lat": 55.742250625
+  },
+  {
+    "id": 384,
+    "name": "",
+    "type": "apartments",
+    "area": 359.5035830748418,
+    "center_lng": 37.56994236666667,
+    "center_lat": 55.736073516666664
+  },
+  {
+    "id": 385,
+    "name": "",
+    "type": "apartments",
+    "area": 917.6160384963969,
+    "center_lng": 37.630924580000006,
+    "center_lat": 55.736942940000006
+  },
+  {
+    "id": 386,
+    "name": "",
+    "type": "apartments",
+    "area": 932.7663826335772,
+    "center_lng": 37.629160896875,
+    "center_lat": 55.73541961562499
+  },
+  {
+    "id": 387,
+    "name": "",
+    "type": "apartments",
+    "area": 357.0922947197698,
+    "center_lng": 37.6300969,
+    "center_lat": 55.73665961111111
+  },
+  {
+    "id": 388,
+    "name": "",
+    "type": "apartments",
+    "area": 1109.5363818678838,
+    "center_lng": 37.62923038571428,
+    "center_lat": 55.73748990714285
+  },
+  {
+    "id": 389,
+    "name": "",
+    "type": "apartments",
+    "area": 420.6233482108744,
+    "center_lng": 37.62841449166666,
+    "center_lat": 55.73751559166667
+  },
+  {
+    "id": 390,
+    "name": "",
+    "type": "apartments",
+    "area": 1261.4416166815356,
+    "center_lng": 37.63454184210526,
+    "center_lat": 55.73696397894736
+  },
+  {
+    "id": 391,
+    "name": "",
+    "type": "apartments",
+    "area": 1241.7766340723476,
+    "center_lng": 37.633600359999996,
+    "center_lat": 55.73873686
+  },
+  {
+    "id": 392,
+    "name": "",
+    "type": "apartments",
+    "area": 412.5049533709835,
+    "center_lng": 37.63410078571429,
+    "center_lat": 55.737670314285715
+  },
+  {
+    "id": 393,
+    "name": "",
+    "type": "apartments",
+    "area": 636.0392357232995,
+    "center_lng": 37.63364133333334,
+    "center_lat": 55.7374951
+  },
+  {
+    "id": 394,
+    "name": "",
+    "type": "apartments",
+    "area": 1814.4810322554906,
+    "center_lng": 37.63207374615385,
+    "center_lat": 55.7394826076923
+  },
+  {
+    "id": 395,
+    "name": "",
+    "type": "apartments",
+    "area": 612.1801831025604,
+    "center_lng": 37.635170544444435,
+    "center_lat": 55.73678172222222
+  },
+  {
+    "id": 396,
+    "name": "",
+    "type": "apartments",
+    "area": 4395.94665354462,
+    "center_lng": 37.64373238888889,
+    "center_lat": 55.737619611111114
+  },
+  {
+    "id": 397,
+    "name": "",
+    "type": "apartments",
+    "area": 831.9974120422753,
+    "center_lng": 37.6230577625,
+    "center_lat": 55.7407504375
+  },
+  {
+    "id": 398,
+    "name": "",
+    "type": "apartments",
+    "area": 844.4157679460506,
+    "center_lng": 37.66432571764705,
+    "center_lat": 55.73847381764705
+  },
+  {
+    "id": 399,
+    "name": "",
+    "type": "apartments",
+    "area": 1040.026294241799,
+    "center_lng": 37.59634393478261,
+    "center_lat": 55.74240606956522
+  },
+  {
+    "id": 400,
+    "name": "",
+    "type": "apartments",
+    "area": 2591.318296040297,
+    "center_lng": 37.60074504210527,
+    "center_lat": 55.741220110526314
+  },
+  {
+    "id": 401,
+    "name": "",
+    "type": "apartments",
+    "area": 600.8069037131687,
+    "center_lng": 37.623510933333336,
+    "center_lat": 55.74086127777778
+  },
+  {
+    "id": 402,
+    "name": "",
+    "type": "apartments",
+    "area": 503.5748371489971,
+    "center_lng": 37.59809376666666,
+    "center_lat": 55.74458389166667
+  },
+  {
+    "id": 403,
+    "name": "",
+    "type": "apartments",
+    "area": 904.3491911845898,
+    "center_lng": 37.57862980666666,
+    "center_lat": 55.73944518666667
+  },
+  {
+    "id": 404,
+    "name": "",
+    "type": "apartments",
+    "area": 284.7759884183374,
+    "center_lng": 37.58009818,
+    "center_lat": 55.739413309999996
+  },
+  {
+    "id": 405,
+    "name": "",
+    "type": "apartments",
+    "area": 674.6221768589342,
+    "center_lng": 37.59871131764707,
+    "center_lat": 55.74250094705882
+  },
+  {
+    "id": 406,
+    "name": "",
+    "type": "apartments",
+    "area": 1917.2295635221685,
+    "center_lng": 37.57710751999999,
+    "center_lat": 55.73948512
+  },
+  {
+    "id": 407,
+    "name": "",
+    "type": "apartments",
+    "area": 3589.1087000740954,
+    "center_lng": 37.65205804,
+    "center_lat": 55.73480136999999
+  },
+  {
+    "id": 408,
+    "name": "",
+    "type": "apartments",
+    "area": 718.3747313138638,
+    "center_lng": 37.5953167,
+    "center_lat": 55.741059699999994
+  },
+  {
+    "id": 409,
+    "name": "",
+    "type": "apartments",
+    "area": 520.2070234935903,
+    "center_lng": 37.595227539999996,
+    "center_lat": 55.742003450000006
+  },
+  {
+    "id": 410,
+    "name": "",
+    "type": "apartments",
+    "area": 433.372538827329,
+    "center_lng": 37.594448846153846,
+    "center_lat": 55.73761639999999
+  },
+  {
+    "id": 411,
+    "name": "",
+    "type": "apartments",
+    "area": 494.87379585898225,
+    "center_lng": 37.59536848333334,
+    "center_lat": 55.741379566666666
+  },
+  {
+    "id": 412,
+    "name": "",
+    "type": "apartments",
+    "area": 435.5935894257445,
+    "center_lng": 37.5923132,
+    "center_lat": 55.74420633999999
+  },
+  {
+    "id": 413,
+    "name": "",
+    "type": "apartments",
+    "area": 622.2854669067164,
+    "center_lng": 37.59147574166666,
+    "center_lat": 55.74406031666668
+  },
+  {
+    "id": 414,
+    "name": "",
+    "type": "apartments",
+    "area": 634.0697219620263,
+    "center_lng": 37.59084533,
+    "center_lat": 55.744115050000005
+  },
+  {
+    "id": 415,
+    "name": "",
+    "type": "apartments",
+    "area": 892.460861297757,
+    "center_lng": 37.593190500000006,
+    "center_lat": 55.74457371764706
+  },
+  {
+    "id": 416,
+    "name": "",
+    "type": "apartments",
+    "area": 431.3846790038638,
+    "center_lng": 37.589464299999996,
+    "center_lat": 55.74458007142857
+  },
+  {
+    "id": 417,
+    "name": "",
+    "type": "apartments",
+    "area": 368.5585338153825,
+    "center_lng": 37.5897620625,
+    "center_lat": 55.74453882499999
+  },
+  {
+    "id": 418,
+    "name": "",
+    "type": "apartments",
+    "area": 842.7726832381642,
+    "center_lng": 37.63751358333334,
+    "center_lat": 55.736381083333335
+  },
+  {
+    "id": 419,
+    "name": "",
+    "type": "apartments",
+    "area": 499.1030197287734,
+    "center_lng": 37.58884370588235,
+    "center_lat": 55.74468269999999
+  },
+  {
+    "id": 420,
+    "name": "",
+    "type": "apartments",
+    "area": 406.97608749815606,
+    "center_lng": 37.66091107999999,
+    "center_lat": 55.74006914
+  },
+  {
+    "id": 421,
+    "name": "",
+    "type": "apartments",
+    "area": 1121.359327826807,
+    "center_lng": 37.659090871428575,
+    "center_lat": 55.74019541428571
+  },
+  {
+    "id": 422,
+    "name": "Белгравия",
+    "type": "apartments",
+    "area": 656.274514350376,
+    "center_lng": 37.58321260833333,
+    "center_lat": 55.73885846666667
+  },
+  {
+    "id": 423,
+    "name": "",
+    "type": "apartments",
+    "area": 392.2986302917421,
+    "center_lng": 37.58354581249999,
+    "center_lat": 55.740630124999996
+  },
+  {
+    "id": 424,
+    "name": "",
+    "type": "apartments",
+    "area": 702.9580518748962,
+    "center_lng": 37.578745944444435,
+    "center_lat": 55.74059002777778
+  },
+  {
+    "id": 425,
+    "name": "",
+    "type": "apartments",
+    "area": 184.5042082141363,
+    "center_lng": 37.578760425,
+    "center_lat": 55.740771925000004
+  },
+  {
+    "id": 426,
+    "name": "",
+    "type": "apartments",
+    "area": 764.79340957189,
+    "center_lng": 37.57927334545455,
+    "center_lat": 55.740771327272725
+  },
+  {
+    "id": 427,
+    "name": "",
+    "type": "apartments",
+    "area": 346.7538597499452,
+    "center_lng": 37.57310987777778,
+    "center_lat": 55.73979378888888
+  },
+  {
+    "id": 428,
+    "name": "",
+    "type": "apartments",
+    "area": 354.7141099036707,
+    "center_lng": 37.577969814285716,
+    "center_lat": 55.74365735714286
+  },
+  {
+    "id": 429,
+    "name": "",
+    "type": "apartments",
+    "area": 736.3029597852186,
+    "center_lng": 37.57756622727272,
+    "center_lat": 55.73970925454544
+  },
+  {
+    "id": 430,
+    "name": "",
+    "type": "apartments",
+    "area": 516.6357975393506,
+    "center_lng": 37.57553826666666,
+    "center_lat": 55.74318110000001
+  },
+  {
+    "id": 431,
+    "name": "",
+    "type": "apartments",
+    "area": 2031.8252045217312,
+    "center_lng": 37.575261866666665,
+    "center_lat": 55.742471614102556
+  },
+  {
+    "id": 432,
+    "name": "",
+    "type": "apartments",
+    "area": 419.7908397359235,
+    "center_lng": 37.579251975,
+    "center_lat": 55.74021975
+  },
+  {
+    "id": 433,
+    "name": "",
+    "type": "apartments",
+    "area": 677.7625611090311,
+    "center_lng": 37.58370135384615,
+    "center_lat": 55.73893085384615
+  },
+  {
+    "id": 434,
+    "name": "",
+    "type": "apartments",
+    "area": 670.4107053261426,
+    "center_lng": 37.58004782,
+    "center_lat": 55.73978215999999
+  },
+  {
+    "id": 435,
+    "name": "",
+    "type": "apartments",
+    "area": 1448.9096022346648,
+    "center_lng": 37.576330150000004,
+    "center_lat": 55.74393693333332
+  },
+  {
+    "id": 436,
+    "name": "",
+    "type": "apartments",
+    "area": 2119.2095139047424,
+    "center_lng": 37.64124236666667,
+    "center_lat": 55.737646375
+  },
+  {
+    "id": 437,
+    "name": "Жилой комплекс \"Novel House",
+    "type": "apartments",
+    "area": 563.983583018845,
+    "center_lng": 37.62366806153846,
+    "center_lat": 55.74184805384615
+  },
+  {
+    "id": 438,
+    "name": "",
+    "type": "apartments",
+    "area": 775.4097211451949,
+    "center_lng": 37.622673376923075,
+    "center_lat": 55.74221296923078
+  },
+  {
+    "id": 439,
+    "name": "Жилой комплекс \"Кадашёвские палаты",
+    "type": "apartments",
+    "area": 1730.9823052455922,
+    "center_lng": 37.623169554545456,
+    "center_lat": 55.74173344545454
+  },
+  {
+    "id": 440,
+    "name": "",
+    "type": "apartments",
+    "area": 503.365922860126,
+    "center_lng": 37.62214916666666,
+    "center_lat": 55.74140309999999
+  },
+  {
+    "id": 441,
+    "name": "",
+    "type": "apartments",
+    "area": 390.2475146565428,
+    "center_lng": 37.625277784615385,
+    "center_lat": 55.733700669230764
+  },
+  {
+    "id": 442,
+    "name": "",
+    "type": "apartments",
+    "area": 623.0629520065766,
+    "center_lng": 37.575596430000004,
+    "center_lat": 55.739674279999996
+  },
+  {
+    "id": 443,
+    "name": "",
+    "type": "apartments",
+    "area": 1015.8441939861176,
+    "center_lng": 37.57675349090909,
+    "center_lat": 55.74464723636365
+  },
+  {
+    "id": 444,
+    "name": "",
+    "type": "apartments",
+    "area": 568.7245514889779,
+    "center_lng": 37.576336787500004,
+    "center_lat": 55.7419429375
+  },
+  {
+    "id": 445,
+    "name": "",
+    "type": "apartments",
+    "area": 469.9761409074624,
+    "center_lng": 37.574476,
+    "center_lat": 55.74189700000001
+  },
+  {
+    "id": 446,
+    "name": "",
+    "type": "apartments",
+    "area": 1368.098895850454,
+    "center_lng": 37.57667701199999,
+    "center_lat": 55.73881577200001
+  },
+  {
+    "id": 447,
+    "name": "",
+    "type": "apartments",
+    "area": 2250.053021276788,
+    "center_lng": 37.578193533333334,
+    "center_lat": 55.74516695555556
+  },
+  {
+    "id": 448,
+    "name": "",
+    "type": "apartments",
+    "area": 308.4130158830785,
+    "center_lng": 37.5821644125,
+    "center_lat": 55.739871087500006
+  },
+  {
+    "id": 449,
+    "name": "",
+    "type": "apartments",
+    "area": 696.6086724645969,
+    "center_lng": 37.580089520000016,
+    "center_lat": 55.740325729999995
+  },
+  {
+    "id": 450,
+    "name": "",
+    "type": "apartments",
+    "area": 516.7175492359443,
+    "center_lng": 37.58165665,
+    "center_lat": 55.74018864999999
+  },
+  {
+    "id": 451,
+    "name": "",
+    "type": "apartments",
+    "area": 690.4941811401069,
+    "center_lng": 37.5804215,
+    "center_lat": 55.73834085
+  },
+  {
+    "id": 452,
+    "name": "",
+    "type": "apartments",
+    "area": 447.1183845643298,
+    "center_lng": 37.578955040000004,
+    "center_lat": 55.74094096666667
+  },
+  {
+    "id": 453,
+    "name": "",
+    "type": "apartments",
+    "area": 753.2503372210981,
+    "center_lng": 37.580666155555555,
+    "center_lat": 55.73899552222221
+  },
+  {
+    "id": 454,
+    "name": "",
+    "type": "apartments",
+    "area": 214.38921941491668,
+    "center_lng": 37.5819578,
+    "center_lat": 55.740499879999994
+  },
+  {
+    "id": 455,
+    "name": "",
+    "type": "apartments",
+    "area": 130.90355410189096,
+    "center_lng": 37.61460595,
+    "center_lat": 55.735118075
+  },
+  {
+    "id": 456,
+    "name": "",
+    "type": "apartments",
+    "area": 442.1431743337347,
+    "center_lng": 37.65998179090909,
+    "center_lat": 55.73567712727272
+  },
+  {
+    "id": 457,
+    "name": "",
+    "type": "apartments",
+    "area": 476.35522253485203,
+    "center_lng": 37.65923036551724,
+    "center_lat": 55.73539968965518
+  },
+  {
+    "id": 458,
+    "name": "",
+    "type": "apartments",
+    "area": 543.9496565878006,
+    "center_lng": 37.596876769999994,
+    "center_lat": 55.74515097999999
+  },
+  {
+    "id": 459,
+    "name": "",
+    "type": "apartments",
+    "area": 524.1611404252448,
+    "center_lng": 37.66317085555554,
+    "center_lat": 55.73250228888889
+  },
+  {
+    "id": 460,
+    "name": "",
+    "type": "apartments",
+    "area": 1058.5672293442437,
+    "center_lng": 37.663781424999996,
+    "center_lat": 55.732722637500004
+  },
+  {
+    "id": 461,
+    "name": "",
+    "type": "apartments",
+    "area": 817.2660164486283,
+    "center_lng": 37.606146599999995,
+    "center_lat": 55.740989822222225
+  },
+  {
+    "id": 462,
+    "name": "",
+    "type": "apartments",
+    "area": 362.6290320328062,
+    "center_lng": 37.62910756428572,
+    "center_lat": 55.73868652857143
+  },
+  {
+    "id": 463,
+    "name": "",
+    "type": "apartments",
+    "area": 445.6947111110502,
+    "center_lng": 37.6345324,
+    "center_lat": 55.74026163999999
+  },
+  {
+    "id": 464,
+    "name": "",
+    "type": "apartments",
+    "area": 482.08336614296184,
+    "center_lng": 37.63486784285714,
+    "center_lat": 55.74034084285713
+  },
+  {
+    "id": 465,
+    "name": "",
+    "type": "apartments",
+    "area": 841.5234877638622,
+    "center_lng": 37.59425805,
+    "center_lat": 55.73825755999999
+  },
+  {
+    "id": 466,
+    "name": "",
+    "type": "apartments",
+    "area": 711.0291473738625,
+    "center_lng": 37.59336544375,
+    "center_lat": 55.73851679375
+  },
+  {
+    "id": 467,
+    "name": "",
+    "type": "apartments",
+    "area": 1133.959072149817,
+    "center_lng": 37.59493382083333,
+    "center_lat": 55.73804664583334
+  },
+  {
+    "id": 468,
+    "name": "Жилой комплекс \"Имперский дом",
+    "type": "apartments",
+    "area": 2069.187727766678,
+    "center_lng": 37.6102970882353,
+    "center_lat": 55.733596941176465
+  },
+  {
+    "id": 469,
+    "name": "Жилой комплекс \"Имперский дом",
+    "type": "apartments",
+    "area": 2528.560605256856,
+    "center_lng": 37.610426372,
+    "center_lat": 55.73412427199999
+  },
+  {
+    "id": 470,
+    "name": "",
+    "type": "apartments",
+    "area": 1809.3555190127536,
+    "center_lng": 37.64803522,
+    "center_lat": 55.7408332488889
+  },
+  {
+    "id": 471,
+    "name": "",
+    "type": "apartments",
+    "area": 11.559594886035578,
+    "center_lng": 37.58402016666666,
+    "center_lat": 55.732404366666664
+  },
+  {
+    "id": 472,
+    "name": "",
+    "type": "apartments",
+    "area": 2213.114494408921,
+    "center_lng": 37.616126754545455,
+    "center_lat": 55.73850592727273
+  },
+  {
+    "id": 473,
+    "name": "",
+    "type": "apartments",
+    "area": 1578.741350629532,
+    "center_lng": 37.5815523,
+    "center_lat": 55.738473321428565
+  },
+  {
+    "id": 474,
+    "name": "",
+    "type": "apartments",
+    "area": 402.1144562042914,
+    "center_lng": 37.6506252,
+    "center_lat": 55.7347478
+  },
+  {
+    "id": 475,
+    "name": "",
+    "type": "apartments",
+    "area": 430.50519514305745,
+    "center_lng": 37.66012181666667,
+    "center_lat": 55.74248923333332
+  },
+  {
+    "id": 476,
+    "name": "",
+    "type": "apartments",
+    "area": 514.8377233577461,
+    "center_lng": 37.66019829545454,
+    "center_lat": 55.73303958181819
+  },
+  {
+    "id": 477,
+    "name": "",
+    "type": "apartments",
+    "area": 944.9039954651629,
+    "center_lng": 37.6601499,
+    "center_lat": 55.73346909999999
+  },
+  {
+    "id": 478,
+    "name": "",
+    "type": "apartments",
+    "area": 3509.9385587590186,
+    "center_lng": 37.653132306818186,
+    "center_lat": 55.73791442045455
+  },
+  {
+    "id": 479,
+    "name": "",
+    "type": "apartments",
+    "area": 1800.2141001809525,
+    "center_lng": 37.66385076363637,
+    "center_lat": 55.73216900909092
+  },
+  {
+    "id": 480,
+    "name": "",
+    "type": "apartments",
+    "area": 4207.872273446808,
+    "center_lng": 37.65439561585366,
+    "center_lat": 55.73683916219512
+  },
+  {
+    "id": 481,
+    "name": "",
+    "type": "apartments",
+    "area": 393.64973881097126,
+    "center_lng": 37.58735106249999,
+    "center_lat": 55.732415450000005
+  },
+  {
+    "id": 482,
+    "name": "",
+    "type": "apartments",
+    "area": 1542.2775152858758,
+    "center_lng": 37.58790578484848,
+    "center_lat": 55.73268950909092
+  },
+  {
+    "id": 483,
+    "name": "",
+    "type": "apartments",
+    "area": 12815.374374396793,
+    "center_lng": 37.58356594503815,
+    "center_lat": 55.73510512213742
+  },
+  {
+    "id": 484,
+    "name": "",
+    "type": "apartments",
+    "area": 510.9033862874236,
+    "center_lng": 37.593020437499995,
+    "center_lat": 55.738689574999995
+  },
+  {
+    "id": 485,
+    "name": "",
+    "type": "apartments",
+    "area": 541.6987483074257,
+    "center_lng": 37.64041544285714,
+    "center_lat": 55.740108514285716
+  },
+  {
+    "id": 486,
+    "name": "",
+    "type": "dormitory",
+    "area": 2371.6476234369184,
+    "center_lng": 37.58115562727273,
+    "center_lat": 55.73767028181819
+  },
+  {
+    "id": 487,
+    "name": "",
+    "type": "apartments",
+    "area": 349.01196394835824,
+    "center_lng": 37.62905446,
+    "center_lat": 55.73884176
+  },
+  {
+    "id": 488,
+    "name": "",
+    "type": "dormitory",
+    "area": 1936.1799845297135,
+    "center_lng": 37.579558842105264,
+    "center_lat": 55.738347618421045
+  },
+  {
+    "id": 489,
+    "name": "",
+    "type": "apartments",
+    "area": 792.8231083723895,
+    "center_lng": 37.6136352,
+    "center_lat": 55.73447008666667
+  },
+  {
+    "id": 490,
+    "name": "",
+    "type": "apartments",
+    "area": 426.07405997570555,
+    "center_lng": 37.635024675,
+    "center_lat": 55.737158625
+  },
+  {
+    "id": 491,
+    "name": "Жилой комплекс \"Кленовый дом",
+    "type": "apartments",
+    "area": 2270.9174231435823,
+    "center_lng": 37.60032812857143,
+    "center_lat": 55.73625463333334
+  },
+  {
+    "id": 492,
+    "name": "",
+    "type": "apartments",
+    "area": 829.4728702671819,
+    "center_lng": 37.601557699999994,
+    "center_lat": 55.73682665384616
+  },
+  {
+    "id": 493,
+    "name": "",
+    "type": "apartments",
+    "area": 2358.4838160801605,
+    "center_lng": 37.62407362105264,
+    "center_lat": 55.74068252631579
+  },
+  {
+    "id": 494,
+    "name": "Grand Deluxe на Плющихе",
+    "type": "apartments",
+    "area": 3301.687465310727,
+    "center_lng": 37.57153868461539,
+    "center_lat": 55.73493186923077
+  },
+  {
+    "id": 495,
+    "name": "",
+    "type": "apartments",
+    "area": 129.84278440820958,
+    "center_lng": 37.62898314285714,
+    "center_lat": 55.74456037142857
+  },
+  {
+    "id": 496,
+    "name": "",
+    "type": "apartments",
+    "area": 210.76249634742214,
+    "center_lng": 37.6287037,
+    "center_lat": 55.74447397692308
+  },
+  {
+    "id": 497,
+    "name": "",
+    "type": "apartments",
+    "area": 1602.2073409810434,
+    "center_lng": 37.61549554285715,
+    "center_lat": 55.7373204642857
+  },
+  {
+    "id": 498,
+    "name": "",
+    "type": "apartments",
+    "area": 735.1469279342995,
+    "center_lng": 37.6322586,
+    "center_lat": 55.73892537500001
+  },
+  {
+    "id": 499,
+    "name": "",
+    "type": "apartments",
+    "area": 357.18986130504265,
+    "center_lng": 37.632840875000014,
+    "center_lat": 55.73996145625
+  },
+  {
+    "id": 500,
+    "name": "",
+    "type": "apartments",
+    "area": 475.3622388331224,
+    "center_lng": 37.63383483333333,
+    "center_lat": 55.73697300833333
+  },
+  {
+    "id": 501,
+    "name": "",
+    "type": "apartments",
+    "area": 586.8764591796453,
+    "center_lng": 37.6285509,
+    "center_lat": 55.737150199999995
+  },
+  {
+    "id": 502,
+    "name": "",
+    "type": "apartments",
+    "area": 1435.8714671042003,
+    "center_lng": 37.62991640833334,
+    "center_lat": 55.738437025
+  },
+  {
+    "id": 503,
+    "name": "",
+    "type": "apartments",
+    "area": 815.7604831937578,
+    "center_lng": 37.632274075,
+    "center_lat": 55.73469803333334
+  },
+  {
+    "id": 504,
+    "name": "",
+    "type": "apartments",
+    "area": 602.9054676669357,
+    "center_lng": 37.62455027142857,
+    "center_lat": 55.74268199285715
+  },
+  {
+    "id": 505,
+    "name": "",
+    "type": "apartments",
+    "area": 242.14334945937264,
+    "center_lng": 37.631164760000004,
+    "center_lat": 55.73482686
+  },
+  {
+    "id": 506,
+    "name": "",
+    "type": "apartments",
+    "area": 1071.9244504298747,
+    "center_lng": 37.64009212222223,
+    "center_lat": 55.73746146666667
+  },
+  {
+    "id": 507,
+    "name": "",
+    "type": "apartments",
+    "area": 319.4681634413026,
+    "center_lng": 37.59195969090909,
+    "center_lat": 55.745008463636374
+  },
+  {
+    "id": 508,
+    "name": "",
+    "type": "apartments",
+    "area": 561.2188550199879,
+    "center_lng": 37.585246614285715,
+    "center_lat": 55.73355831428571
+  },
+  {
+    "id": 509,
+    "name": "",
+    "type": "apartments",
+    "area": 393.98985423655853,
+    "center_lng": 37.6634549625,
+    "center_lat": 55.74296058750001
+  },
+  {
+    "id": 510,
+    "name": "",
+    "type": "apartments",
+    "area": 229.76757059152877,
+    "center_lng": 37.6636978875,
+    "center_lat": 55.7430362625
+  },
+  {
+    "id": 511,
+    "name": "",
+    "type": "apartments",
+    "area": 274.1855587555764,
+    "center_lng": 37.59432759999999,
+    "center_lat": 55.740393757142854
+  },
+  {
+    "id": 512,
+    "name": "",
+    "type": "apartments",
+    "area": 2258.8129149105475,
+    "center_lng": 37.602232844444444,
+    "center_lat": 55.743657748148145
+  },
+  {
+    "id": 513,
+    "name": "",
+    "type": "apartments",
+    "area": 2955.80820125892,
+    "center_lng": 37.60063906363636,
+    "center_lat": 55.73747849090909
+  },
+  {
+    "id": 514,
+    "name": "",
+    "type": "apartments",
+    "area": 722.6875973183907,
+    "center_lng": 37.6492731,
+    "center_lat": 55.739090974999996
+  },
+  {
+    "id": 515,
+    "name": "",
+    "type": "apartments",
+    "area": 562.7201538720843,
+    "center_lng": 37.63254794,
+    "center_lat": 55.74385060000001
+  },
+  {
+    "id": 516,
+    "name": "",
+    "type": "apartments",
+    "area": 248.1268806323248,
+    "center_lng": 37.626090774999994,
+    "center_lat": 55.7337981875
+  },
+  {
+    "id": 517,
+    "name": "",
+    "type": "apartments",
+    "area": 5501.596817549148,
+    "center_lng": 37.65896198888888,
+    "center_lat": 55.74026803333332
+  },
+  {
+    "id": 518,
+    "name": "",
+    "type": "apartments",
+    "area": 614.3065950087342,
+    "center_lng": 37.63945255294118,
+    "center_lat": 55.73284358823529
+  },
+  {
+    "id": 519,
+    "name": "",
+    "type": "apartments",
+    "area": 1317.5273272600593,
+    "center_lng": 37.65035056000001,
+    "center_lat": 55.73503488
+  },
+  {
+    "id": 520,
+    "name": "",
+    "type": "apartments",
+    "area": 4932.600912203228,
+    "center_lng": 37.664234792592595,
+    "center_lat": 55.73721752222223
+  },
+  {
+    "id": 521,
+    "name": "",
+    "type": "apartments",
+    "area": 1811.135537361898,
+    "center_lng": 37.65961619687501,
+    "center_lat": 55.736909562499996
+  },
+  {
+    "id": 522,
+    "name": "",
+    "type": "apartments",
+    "area": 4681.880275131398,
+    "center_lng": 37.61902277,
+    "center_lat": 55.73384725
+  },
+  {
+    "id": 523,
+    "name": "",
+    "type": "apartments",
+    "area": 4650.539422118631,
+    "center_lng": 37.618620750000005,
+    "center_lat": 55.73602227
+  },
+  {
+    "id": 524,
+    "name": "",
+    "type": "apartments",
+    "area": 807.4465980741613,
+    "center_lng": 37.64759950909091,
+    "center_lat": 55.74362213636364
+  },
+  {
+    "id": 525,
+    "name": "Братский корпус",
+    "type": "apartments",
+    "area": 490.251191396866,
+    "center_lng": 37.657064133333336,
+    "center_lat": 55.732284283333335
+  },
+  {
+    "id": 526,
+    "name": "",
+    "type": "apartments",
+    "area": 698.5768259899012,
+    "center_lng": 37.6404725,
+    "center_lat": 55.7436473
+  },
+  {
+    "id": 527,
+    "name": "",
+    "type": "apartments",
+    "area": 2831.20535379416,
+    "center_lng": 37.592976162499994,
+    "center_lat": 55.74023125625
+  },
+  {
+    "id": 528,
+    "name": "Жилой комплекс \"Опера Хаус",
+    "type": "apartments",
+    "area": 2858.7999559406435,
+    "center_lng": 37.597149079310356,
+    "center_lat": 55.73979343793104
+  },
+  {
+    "id": 529,
+    "name": "Жилой комплекс \"Palazzo Imperiale",
+    "type": "apartments",
+    "area": 1068.1723776183526,
+    "center_lng": 37.622207966666664,
+    "center_lat": 55.734396049999994
+  },
+  {
+    "id": 530,
+    "name": "",
+    "type": "apartments",
+    "area": 1372.6691758657332,
+    "center_lng": 37.62315152,
+    "center_lat": 55.7411709
+  },
+  {
+    "id": 531,
+    "name": "",
+    "type": "apartments",
+    "area": 1303.982030295896,
+    "center_lng": 37.62752963333333,
+    "center_lat": 55.7404095
+  },
+  {
+    "id": 532,
+    "name": "Жилой комплекс «Симфония набережных»",
+    "type": "apartments",
+    "area": 3942.492755600768,
+    "center_lng": 37.64473869565218,
+    "center_lat": 55.74394034347824
+  },
+  {
+    "id": 533,
+    "name": "",
+    "type": "apartments",
+    "area": 1578.7165057959178,
+    "center_lng": 37.64484131538462,
+    "center_lat": 55.73684325384616
+  },
+  {
+    "id": 534,
+    "name": "",
+    "type": "apartments",
+    "area": 1593.740966958377,
+    "center_lng": 37.64073631875001,
+    "center_lat": 55.732246331249996
+  }
+]
