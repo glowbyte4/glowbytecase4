@@ -2,7 +2,6 @@ import React from "react";
 import { FeatureGroup, LayersControl, Map, TileLayer } from "react-leaflet";
 import HeatmapLayer from "react-leaflet-heatmap-layer";
 
-import * as buildings from "../../data/csvjson.json";
 import { getRandomInt } from "../../utils";
 import { getMap } from "../../api/mapApi";
 import { useQuery } from "react-query";
@@ -17,8 +16,6 @@ const MapContainer = ({ points, center }) => {
   if (error) {
     return "Error" + error.message;
   }
-
-  console.log(data);
 
   return (
     <Map center={center} zoom={12}>
@@ -44,7 +41,10 @@ const MapContainer = ({ points, center }) => {
             <HeatmapLayer
               fitBoundsOnLoad
               fitBoundsOnUpdate
-              points={buildings.default}
+              points={Object.values(data.data).map((building) => ({
+                center_lng: building.center[0],
+                center_lat: building.center[1],
+              }))}
               longitudeExtractor={(point) => point.center_lng}
               latitudeExtractor={(point) => point.center_lat}
               intensityExtractor={() => 1}
