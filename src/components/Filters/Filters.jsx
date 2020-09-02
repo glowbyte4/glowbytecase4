@@ -4,28 +4,31 @@ import { Form, Input, Select } from "antd";
 
 const { Option } = Select;
 
-const Filters = ({ onFiltersChange }) => {
+const Filters = ({ onFiltersChange, stations }) => {
   const [form] = Form.useForm();
 
   return (
     <Form
       layout="inline"
       form={form}
-      onValuesChange={() => onFiltersChange()}
+      onValuesChange={onFiltersChange}
       className="site-form"
     >
       <Form.Item label="Метро" name="station">
-        <Select defaultValue="1" style={{ width: 100, textAlign: "center" }}>
-          <Option value="1">Метро 1</Option>
-          <Option value="2">Метро 2</Option>
-          <Option value="3">Метро 3</Option>
-        </Select>
-      </Form.Item>
-      <Form.Item label="Шаг" name="step">
-        <Select defaultValue="1" style={{ width: 50, textAlign: "center" }}>
-          <Option value="1">1км</Option>
-          <Option value="2">2км</Option>
-          <Option value="3">3км</Option>
+        <Select
+          style={{ width: 200, textAlign: "center" }}
+          showSearch
+          placeholder="Выберите метро"
+          filterOption={(input, option) =>
+            option.children.toLowerCase().indexOf(input.toLowerCase()) >= 0
+          }
+          optionFilterProp="children"
+        >
+          {stations.map((station) => (
+            <Option key={station.id} value={station.id}>
+              {station.name}
+            </Option>
+          ))}
         </Select>
       </Form.Item>
       <Form.Item>

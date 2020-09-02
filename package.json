@@ -43,6 +43,7 @@
   "devDependencies": {
     "eslint-config-airbnb": "^18.2.0",
     "leaflet": "^1.6.0",
+    "lodash": "^4.17.20",
     "react-leaflet": "^2.7.0"
   }
 }
