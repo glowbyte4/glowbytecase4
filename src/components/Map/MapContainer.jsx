@@ -1,4 +1,4 @@
-import React, { useCallback, useRef, useState } from "react";
+import React from "react";
 import {
   FeatureGroup,
   LayersControl,
@@ -9,7 +9,7 @@ import {
 } from "react-leaflet";
 import HeatmapLayer from "react-leaflet-heatmap-layer";
 
-import { getMap } from "../../api/mapApi";
+import { getEnemies, getMap } from "../../api/mapApi";
 import { useQuery } from "react-query";
 
 const MapContainer = ({ center, position, mapRef, handleClick }) => {
@@ -28,6 +28,8 @@ const MapContainer = ({ center, position, mapRef, handleClick }) => {
       <Popup>You are here</Popup>
     </Marker>
   ) : null;
+
+  const enemies = getEnemies();
 
   return (
     <Map
@@ -56,6 +58,30 @@ const MapContainer = ({ center, position, mapRef, handleClick }) => {
               latitudeExtractor={(point) => point.center_lat}
               intensityExtractor={() => 1}
             />
+          </FeatureGroup>
+        </LayersControl.Overlay>
+        <LayersControl.Overlay name="Конкуренты">
+          <FeatureGroup color="purple">
+            {enemies.map((enemy) => (
+              <Marker
+                position={[
+                  enemy["geometry.location.lat"],
+                  enemy["geometry.location.lng"],
+                ]}
+                key={enemy["place_id"]}
+              >
+                <Popup>
+                  <div>
+                    <p>Название: {enemy["retailer"]}</p>
+                    <p>Адрес: {enemy["formatted_address"]}</p>
+                    <p>Рейтинг: {enemy["rating"]}</p>
+                    {enemy["price_level"] && (
+                      <p>Уровень цен: {enemy["price_level"]}</p>
+                    )}
+                  </div>
+                </Popup>
+              </Marker>
+            ))}
           </FeatureGroup>
         </LayersControl.Overlay>
       </LayersControl>
