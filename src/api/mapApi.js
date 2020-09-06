@@ -16,3 +16,7 @@ export function getStations() {
 export function getEnemies() {
   return axios.get("http://127.0.0.1:5000/get_competitors");
 }
+
+export function getSchools() {
+  return axios.get("http://127.0.0.1:5000/get_schools");
+}

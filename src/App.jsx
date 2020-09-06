@@ -5,7 +5,7 @@ import "antd/dist/antd.css";
 import Filters from "./components/Filters/Filters";
 import MapContainer from "./components/Map/MapContainer";
 import "./App.css";
-import { getStations, getEnemies, getBuildings } from "./api/mapApi";
+import { getStations, getEnemies, getBuildings, getSchools } from "./api/mapApi";
 
 export default function App() {
   const moscow = [55.75396, 37.620393];
@@ -13,6 +13,16 @@ export default function App() {
   const [position, setPosition] = useState();
   const [enemies, setEnemies] = useState([]);
   const [buildings, setBuildings] = useState([]);
+  const [schools, setSchools] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const { data } = await getSchools();
+      setSchools(Object.values(data));
+    };
+    fetchData();
+  }, []);
+
 
   useEffect(() => {
     const fetchData = async () => {
@@ -68,6 +78,7 @@ export default function App() {
         center={center}
         enemies={enemies}
         buildings={buildings}
+        schools={schools}
       />
     </>
   );
