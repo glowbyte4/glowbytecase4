@@ -9,27 +9,12 @@ import {
 } from "react-leaflet";
 import HeatmapLayer from "react-leaflet-heatmap-layer";
 
-import { getEnemies, getMap } from "../../api/mapApi";
-import { useQuery } from "react-query";
-
-const MapContainer = ({ center, position, mapRef, handleClick }) => {
-  const { isLoading, error, data } = useQuery("fetchMapData", getMap);
-
-  if (isLoading) {
-    return "Loading...";
-  }
-
-  if (error) {
-    return "Error" + error.message;
-  }
-
+const MapContainer = ({ center, position, mapRef, handleClick, enemies, buildings }) => {
   const userMarker = position ? (
     <Marker position={position}>
       <Popup>You are here</Popup>
     </Marker>
   ) : null;
-
-  const enemies = getEnemies();
 
   return (
     <Map
@@ -50,7 +35,7 @@ const MapContainer = ({ center, position, mapRef, handleClick }) => {
             <HeatmapLayer
               fitBoundsOnLoad
               fitBoundsOnUpdate
-              points={Object.values(data.data).map((building) => ({
+              points={Object.values(buildings).map((building) => ({
                 center_lng: building.center[0],
                 center_lat: building.center[1],
               }))}
