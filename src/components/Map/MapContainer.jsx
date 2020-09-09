@@ -9,7 +9,7 @@ import {
 } from "react-leaflet";
 import HeatmapLayer from "react-leaflet-heatmap-layer";
 
-const MapContainer = ({ center, position, mapRef, handleClick, enemies, buildings, schools }) => {
+const MapContainer = ({ center, position, mapRef, handleClick, enemies, buildings, schools, ratings }) => {
   const userMarker = position ? (
     <Marker position={position}>
       <Popup>You are here</Popup>
@@ -30,6 +30,26 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
       />
       {userMarker}
       <LayersControl>
+        <LayersControl.Overlay name="Рекомендации">
+          <FeatureGroup color="green">
+            <HeatmapLayer
+              fitBoundsOnLoad
+              fitBoundsOnUpdate
+              points={(ratings).map((item) => ({
+                center_lng: item.center[1],
+                center_lat: item.center[0],
+                weight: item.weight,
+              }))}
+              longitudeExtractor={(point) => point.center_lng}
+              latitudeExtractor={(point) => point.center_lat}
+              intensityExtractor={(point) => point.weight}
+              radius={250}
+              blur={250}
+              max={7}
+              maxZoom={18}
+            />
+          </FeatureGroup>
+        </LayersControl.Overlay>
         <LayersControl.Overlay name="Плотность">
           <FeatureGroup color="purple">
             <HeatmapLayer

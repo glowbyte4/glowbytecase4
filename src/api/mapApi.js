@@ -20,3 +20,7 @@ export function getEnemies() {
 export function getSchools() {
   return axios.get("http://127.0.0.1:5000/get_schools");
 }
+
+export function getRatings() {
+  return axios.get("http://127.0.0.1:5000/get_ratings");
+}
