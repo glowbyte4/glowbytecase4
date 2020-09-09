@@ -43,10 +43,11 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
               longitudeExtractor={(point) => point.center_lng}
               latitudeExtractor={(point) => point.center_lat}
               intensityExtractor={(point) => point.weight}
-              radius={250}
+              radius={200}
               blur={250}
               max={7}
               maxZoom={18}
+              gradient={{ 0.4: '#c030c6', 0.8: '#3839a5', 1.0: "#59fac6" }}
             />
           </FeatureGroup>
         </LayersControl.Overlay>
@@ -56,8 +57,8 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
               fitBoundsOnLoad
               fitBoundsOnUpdate
               points={Object.values(buildings).map((building) => ({
-                center_lng: building.center[0],
-                center_lat: building.center[1],
+                center_lng: building.center_lng,
+                center_lat: building.center_lat,
               }))}
               longitudeExtractor={(point) => point.center_lng}
               latitudeExtractor={(point) => point.center_lat}
