@@ -9,27 +9,12 @@ import {
 } from "react-leaflet";
 import HeatmapLayer from "react-leaflet-heatmap-layer";
 
-import { getEnemies, getMap } from "../../api/mapApi";
-import { useQuery } from "react-query";
-
-const MapContainer = ({ center, position, mapRef, handleClick }) => {
-  const { isLoading, error, data } = useQuery("fetchMapData", getMap);
-
-  if (isLoading) {
-    return "Loading...";
-  }
-
-  if (error) {
-    return "Error" + error.message;
-  }
-
+const MapContainer = ({ center, position, mapRef, handleClick, enemies, buildings, schools, ratings }) => {
   const userMarker = position ? (
     <Marker position={position}>
       <Popup>You are here</Popup>
     </Marker>
   ) : null;
-
-  const enemies = getEnemies();
 
   return (
     <Map
@@ -45,14 +30,35 @@ const MapContainer = ({ center, position, mapRef, handleClick }) => {
       />
       {userMarker}
       <LayersControl>
+        <LayersControl.Overlay name="Рекомендации">
+          <FeatureGroup color="green">
+            <HeatmapLayer
+              fitBoundsOnLoad
+              fitBoundsOnUpdate
+              points={(ratings).map((item) => ({
+                center_lng: item.center[1],
+                center_lat: item.center[0],
+                weight: item.weight,
+              }))}
+              longitudeExtractor={(point) => point.center_lng}
+              latitudeExtractor={(point) => point.center_lat}
+              intensityExtractor={(point) => point.weight}
+              radius={200}
+              blur={250}
+              max={7}
+              maxZoom={18}
+              gradient={{ 0.4: '#c030c6', 0.8: '#3839a5', 1.0: "#59fac6" }}
+            />
+          </FeatureGroup>
+        </LayersControl.Overlay>
         <LayersControl.Overlay name="Плотность">
           <FeatureGroup color="purple">
             <HeatmapLayer
               fitBoundsOnLoad
               fitBoundsOnUpdate
-              points={Object.values(data.data).map((building) => ({
-                center_lng: building.center[0],
-                center_lat: building.center[1],
+              points={Object.values(buildings).map((building) => ({
+                center_lng: building.center_lng,
+                center_lat: building.center_lat,
               }))}
               longitudeExtractor={(point) => point.center_lng}
               latitudeExtractor={(point) => point.center_lat}
@@ -78,6 +84,26 @@ const MapContainer = ({ center, position, mapRef, handleClick }) => {
                     {enemy["price_level"] && (
                       <p>Уровень цен: {enemy["price_level"]}</p>
                     )}
+                  </div>
+                </Popup>
+              </Marker>
+            ))}
+          </FeatureGroup>
+        </LayersControl.Overlay>
+        <LayersControl.Overlay name="Школы">
+          <FeatureGroup color="purple">
+            {schools.map((school) => (
+              <Marker
+                position={[
+                  school["lattitude"],
+                  school["longitude"],
+                ]}
+                key={school["adress"]}
+              >
+                <Popup>
+                  <div>
+                    <p>Название: {school["name"]}</p>
+                    <p>Адрес: {school["adress"]}</p>
                   </div>
                 </Popup>
               </Marker>
