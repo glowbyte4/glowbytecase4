@@ -9,7 +9,7 @@ import {
 } from "react-leaflet";
 import HeatmapLayer from "react-leaflet-heatmap-layer";
 
-const MapContainer = ({ center, position, mapRef, handleClick, enemies, buildings, schools, ratings }) => {
+const MapContainer = ({ center, position, mapRef, handleClick, enemies, buildings, schools, ratings, rentInfo }) => {
   const userMarker = position ? (
     <Marker position={position}>
       <Popup>You are here</Popup>
@@ -104,6 +104,30 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
                   <div>
                     <p>Название: {school["name"]}</p>
                     <p>Адрес: {school["adress"]}</p>
+                  </div>
+                </Popup>
+              </Marker>
+            ))}
+          </FeatureGroup>
+        </LayersControl.Overlay>
+        <LayersControl.Overlay name="Объявления">
+          <FeatureGroup color="purple">
+            {rentInfo.map((rent) => (
+              <Marker
+                position={[
+                  rent["lat"],
+                  rent["long"],
+                ]}
+                key={rent["id"]}
+              >
+                <Popup>
+                  <div>
+                    <p>Адрес: {rent["adr"]}</p>
+                    <p>Метро: {rent['metro']}</p>
+                    <p>Цена: {rent['price']}</p>
+                    <p>Площадь: {rent['square']}</p>
+                    <p>Ссылка: {rent['link']}</p>
+                    <p>Телефон: {rent['phones']}</p>
                   </div>
                 </Popup>
               </Marker>

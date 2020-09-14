@@ -24,3 +24,7 @@ export function getSchools() {
 export function getRatings() {
   return axios.get("http://127.0.0.1:5000/get_ratings");
 }
+
+export function getRentInfo() {
+  return axios.get("http://127.0.0.1:5000/get_rent_info");
+}
