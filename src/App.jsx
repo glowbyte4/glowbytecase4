@@ -5,7 +5,22 @@ import "antd/dist/antd.css";
 import Filters from "./components/Filters/Filters";
 import MapContainer from "./components/Map/MapContainer";
 import "./App.css";
-import { getStations, getEnemies, getBuildings, getSchools, getRatings, getRentInfo } from "./api/mapApi";
+import {
+  getStations,
+  getEnemies,
+  getBuildings,
+  getSchools,
+  getRatings,
+  getRentInfo,
+} from "./api/mapApi";
+import Tour from "reactour";
+
+const steps = [
+  {
+    selector: ".leaflet-control-layers.leaflet-control",
+    content: "This is my first Step",
+  },
+];
 
 export default function App() {
   const moscow = [55.75396, 37.620393];
@@ -20,12 +35,11 @@ export default function App() {
   useEffect(() => {
     const fetchData = async () => {
       const { data } = await getRentInfo();
-      console.log(Object.values(data))
+      console.log(Object.values(data));
       setRentInfo(data);
     };
     fetchData();
   }, []);
-
 
   useEffect(() => {
     const fetchData = async () => {
@@ -35,7 +49,6 @@ export default function App() {
     fetchData();
   }, []);
 
-
   useEffect(() => {
     const fetchData = async () => {
       const { data } = await getSchools();
@@ -44,7 +57,6 @@ export default function App() {
     fetchData();
   }, []);
 
-
   useEffect(() => {
     const fetchData = async () => {
       const { data } = await getEnemies();
@@ -52,7 +64,6 @@ export default function App() {
     };
     fetchData();
   }, []);
-
 
   useEffect(() => {
     const fetchData = async () => {
@@ -89,8 +100,19 @@ export default function App() {
     [stations]
   );
 
+  const [isTourOpen, setIsTourOpen] = useState(false);
+
+  useEffect(() => {
+    setTimeout(() => setIsTourOpen(true), 3000);
+  }, []);
+
   return (
     <>
+      <Tour
+        steps={steps}
+        isOpen={isTourOpen}
+        onRequestClose={() => setIsTourOpen(false)}
+      />
       <Filters onFiltersChange={onFiltersChange} stations={stations} />
       <MapContainer
         position={position}

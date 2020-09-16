@@ -31,39 +31,6 @@ const Filters = ({ onFiltersChange, stations }) => {
           ))}
         </Select>
       </Form.Item>
-      <Form.Item>
-        <Input.Group compact>
-          <Form.Item label="Конкуренты" name="enemies_from">
-            <Input
-              style={{ width: 100, textAlign: "center" }}
-              placeholder="от"
-            />
-          </Form.Item>
-          <Form.Item>
-            <Input
-              className="site-input-split"
-              style={{
-                width: 30,
-                borderLeft: 0,
-                borderRight: 0,
-                pointerEvents: "none",
-              }}
-              placeholder="~"
-              disabled
-            />
-          </Form.Item>
-          <Form.Item name="enemies_to">
-            <Input
-              className="site-input-right"
-              style={{
-                width: 100,
-                textAlign: "center",
-              }}
-              placeholder="до"
-            />
-          </Form.Item>
-        </Input.Group>
-      </Form.Item>
     </Form>
   );
 };
