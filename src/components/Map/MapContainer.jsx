@@ -8,8 +8,19 @@ import {
   Popup,
 } from "react-leaflet";
 import HeatmapLayer from "react-leaflet-heatmap-layer";
+import { greenIcon, orangeIcon, violetIcon } from "../../data/markers";
 
-const MapContainer = ({ center, position, mapRef, handleClick, enemies, buildings, schools, ratings, rentInfo }) => {
+const MapContainer = ({
+  center,
+  position,
+  mapRef,
+  handleClick,
+  enemies,
+  buildings,
+  schools,
+  ratings,
+  rentInfo,
+}) => {
   const userMarker = position ? (
     <Marker position={position}>
       <Popup>You are here</Popup>
@@ -35,7 +46,7 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
             <HeatmapLayer
               fitBoundsOnLoad
               fitBoundsOnUpdate
-              points={(ratings).map((item) => ({
+              points={ratings.map((item) => ({
                 center_lng: item.center[1],
                 center_lat: item.center[0],
                 weight: item.weight,
@@ -47,7 +58,7 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
               blur={250}
               max={7}
               maxZoom={18}
-              gradient={{ 0.4: '#c030c6', 0.8: '#3839a5', 1.0: "#59fac6" }}
+              gradient={{ 0.4: "#c030c6", 0.8: "#3839a5", 1.0: "#59fac6" }}
             />
           </FeatureGroup>
         </LayersControl.Overlay>
@@ -75,6 +86,7 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
                   enemy["geometry.location.lng"],
                 ]}
                 key={enemy["place_id"]}
+                icon={violetIcon}
               >
                 <Popup>
                   <div>
@@ -94,11 +106,9 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
           <FeatureGroup color="purple">
             {schools.map((school) => (
               <Marker
-                position={[
-                  school["lattitude"],
-                  school["longitude"],
-                ]}
+                position={[school["lattitude"], school["longitude"]]}
                 key={school["adress"]}
+                icon={orangeIcon}
               >
                 <Popup>
                   <div>
@@ -114,20 +124,18 @@ const MapContainer = ({ center, position, mapRef, handleClick, enemies, building
           <FeatureGroup color="purple">
             {rentInfo.map((rent) => (
               <Marker
-                position={[
-                  rent["lat"],
-                  rent["long"],
-                ]}
+                position={[rent["lat"], rent["long"]]}
                 key={rent["id"]}
+                icon={greenIcon}
               >
                 <Popup>
                   <div>
                     <p>Адрес: {rent["adr"]}</p>
-                    <p>Метро: {rent['metro']}</p>
-                    <p>Цена: {rent['price']}</p>
-                    <p>Площадь: {rent['square']}</p>
-                    <p>Ссылка: {rent['link']}</p>
-                    <p>Телефон: {rent['phones']}</p>
+                    <p>Метро: {rent["metro"]}</p>
+                    <p>Цена: {rent["price"]}</p>
+                    <p>Площадь: {rent["square"]}</p>
+                    <p>Ссылка: {rent["link"]}</p>
+                    <p>Телефон: {rent["phones"]}</p>
                   </div>
                 </Popup>
               </Marker>
