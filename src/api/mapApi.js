@@ -1,9 +1,14 @@
-import axios from "axios";
 import * as stations from "../data/moscow_metro";
+import * as enemies from "../data/enemies";
+import * as builds from "../data/build2.json";
+import * as rent_info from "../data/rent_list.json";
+import * as rating from "../data/corr_ratings250meters.json";
+import * as school from "../data/moscow_school.json";
+
 import { flatten, uniqBy } from "lodash";
 
 export function getBuildings() {
-  return axios.get("http://127.0.0.1:5000/get_buildings");
+  return builds.default;
 }
 
 export function getStations() {
@@ -14,17 +19,17 @@ export function getStations() {
 }
 
 export function getEnemies() {
-  return axios.get("http://127.0.0.1:5000/get_competitors");
+  return enemies.default;
 }
 
 export function getSchools() {
-  return axios.get("http://127.0.0.1:5000/get_schools");
+  return school.default;
 }
 
 export function getRatings() {
-  return axios.get("http://127.0.0.1:5000/get_ratings");
+  return rating.default;
 }
 
 export function getRentInfo() {
-  return axios.get("http://127.0.0.1:5000/get_rent_info");
+  return rent_info.default;
 }

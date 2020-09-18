@@ -104,7 +104,7 @@ const MapContainer = ({
         </LayersControl.Overlay>
         <LayersControl.Overlay name="Школы">
           <FeatureGroup color="purple">
-            {schools.map((school) => (
+            {Object.values(schools).map((school) => (
               <Marker
                 position={[school["lattitude"], school["longitude"]]}
                 key={school["adress"]}

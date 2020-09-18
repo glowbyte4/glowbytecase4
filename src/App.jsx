@@ -26,52 +26,12 @@ export default function App() {
   const moscow = [55.75396, 37.620393];
   const [center, setCenter] = useState(moscow);
   const [position, setPosition] = useState();
-  const [enemies, setEnemies] = useState([]);
-  const [buildings, setBuildings] = useState([]);
-  const [schools, setSchools] = useState([]);
-  const [ratings, setRatings] = useState([]);
-  const [rentInfo, setRentInfo] = useState([]);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      const { data } = await getRentInfo();
-      console.log(Object.values(data));
-      setRentInfo(data);
-    };
-    fetchData();
-  }, []);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      const { data } = await getRatings();
-      setRatings(data);
-    };
-    fetchData();
-  }, []);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      const { data } = await getSchools();
-      setSchools(Object.values(data));
-    };
-    fetchData();
-  }, []);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      const { data } = await getEnemies();
-      setEnemies(data);
-    };
-    fetchData();
-  }, []);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      const { data } = await getBuildings();
-      setBuildings(data);
-    };
-    fetchData();
-  }, []);
+  const rentInfo = getRentInfo();
+  const ratings = getRatings();
+  const schools = getSchools();
+  const enemies = getEnemies();
+  const buildings = getBuildings();
 
   const mapRef = useRef();
 
