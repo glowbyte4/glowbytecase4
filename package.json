@@ -17,7 +17,9 @@
     "react-leaflet-heatmap-layer": "^2.0.0",
     "react-papaparse": "^3.7.3",
     "react-query": "^2.12.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "reactour": "^1.18.0",
+    "styled-components": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
